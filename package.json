@@ -1,7 +1,7 @@
 {
   "name": "srpskilab",
   "private": true,
-  "version": "2.1.0",
+  "version": "3.0.0-study-edition",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,7 +14,16 @@
     "content:convert": "node scripts/convert-legacy.cjs",
     "audio:generate": "python scripts/generate-audio.py",
     "audio:verify": "python scripts/check-audio.py",
-    "content:verify": "node scripts/verify-content.cjs"
+    "content:verify": "node scripts/verify-content.cjs",
+    "content:v3:plan": "node scripts/build-syllabus-v3.cjs",
+    "content:v3:workbooks": "node scripts/build-workbooks-265.cjs",
+    "content:v3:audit": "node scripts/audit-course-v3.cjs",
+    "content:v3:validate": "node scripts/validate-pilot-v3.cjs",
+    "audio:v3:pilot": "python scripts/generate-pilot-audio.py",
+    "content:v3:export": "node scripts/export-pilot-manuscript.cjs",
+    "content:v3:authorA0": "python scripts/write-a0-pilots.py && python scripts/write-a0-2to4.py",
+    "content:v3:verify": "node scripts/verify-v3-ready.cjs",
+    "audio:v3:study": "python scripts/generate-study-audio-v3.py"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.0",

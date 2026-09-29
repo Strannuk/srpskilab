@@ -1,3 +1,13 @@
+# IMPORTANT — SrpskiLab v3 study edition
+
+**Installation and SQL sequence:** read [`START-HERE-V3-RU.md`](START-HERE-V3-RU.md).
+
+**Do not use this version as proof of certified Serbian proficiency or a completed, independently reviewed B2 curriculum.** 20 expanded A0 pilot drafts and 245 distinct lesson-specific learning supplements are integrated; Serbian-language/audio editorial QA remains outstanding. The database bank answers are private and provided separately.
+
+---
+
+> **SrpskiLab v3 — редакторская ветка:** 20 самостоятельных черновых уроков A0 (`/pilot/m1l1` … `/pilot/m4l5`) и просмотр 265 индивидуальных **планов** (`/editorial/curriculum`) доступны только при `npm run dev`. В production остаётся прежний курс; новые материалы **НЕ** отправляют результаты в Supabase. Демо-аудио и язык требуют проверки. Инструкция владельцу: [`docs/course-v3/MANUAL-SETUP-RU.md`](docs/course-v3/MANUAL-SETUP-RU.md). Точный статус: [`docs/course-v3/STATUS-AT-HANDOFF.md`](docs/course-v3/STATUS-AT-HANDOFF.md).
+
 # 🇷🇸 SrpskiLab 2.1
 
 Многопользовательский учебный сайт: курс сербского A0–B2, регистрация, серверные зачёты, последовательная разблокировка уроков, словарь, карточки, экзамены и сербское аудио.
@@ -40,7 +50,7 @@
    Не добавляй туда `service_role`, SMTP, Azure/Google API ключи. Файл `.env.local` исключён из Git.
 7. **Выполни SQL-миграции последовательно** через Supabase → SQL Editor:
    - `supabase/migrations/202609290001_schema.sql` — таблицы, RLS и серверные функции;
-   - `supabase/migrations/202609290002_seed.sql` — реестр уроков и серверная база контрольных ответов.
+   - `supabase/migrations/202609290002_seed.sql` — реестр уроков и словарь. **Закрытый банк ответов исходный seed не заполняет**, его состояние необходимо проверить отдельно по `docs/course-v3/MANUAL-SETUP-RU.md`.
 8. В Supabase → Authentication → Providers включи **Email**. В Auth → URL Configuration укажи `Site URL`: `http://localhost:5173`, добавь разрешённые `Redirect URLs` для `http://localhost:5173/**`, а после публикации — адрес на Vercel и URL восстановления пароля.
 9. Выполни:
 
@@ -49,7 +59,7 @@
    ```
 
    Открой **http://localhost:5173**.
-10. Зарегистрируй первый тестовый аккаунт. Если включено подтверждение почты, подтверди адрес через письмо. Проверь загрузку профиля и прохождение первого урока. Для *production* настрой отдельный SMTP в Supabase — встроенная тестовая отправка почты ограничена.
+10. Зарегистрируй первый тестовый аккаунт. Если включено подтверждение почты, подтверди адрес через письмо. Проверь загрузку профиля и прохождение первого урока. Для *production* настрой отдельный SMTP в Supabase — встроенная тестовая отправка почты ограничена. Также проверь два `private.*_question_bank`: из базового seed они не заполняются. Диагностика и безопасное восстановление оригинального банка — `docs/course-v3/MANUAL-SETUP-RU.md`.
 
 ### Ошибка «Could not find the table ...»
 Не применены SQL-миграции или указаны ключи другого проекта Supabase. Выполни миграции именно в базе, URL которой внесён в `.env.local`.

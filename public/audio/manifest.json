@@ -1170,9 +1170,10 @@
     "227eb2fb72c67536c091": {
       "text": "Koliko košta?",
       "url": "/audio/227eb2fb72c67536c091.mp3",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "reviewStatus": "unreviewed",
-      "provider": "eSpeak-sr"
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
     },
     "5054d7c4edd27bf926c1": {
       "text": "Gde se nalazi...?",
@@ -4222,9 +4223,10 @@
     "bf46099a97ac417ff407": {
       "text": "Kada je sastanak?",
       "url": "/audio/bf46099a97ac417ff407.mp3",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "reviewStatus": "unreviewed",
-      "provider": "eSpeak-sr"
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
     },
     "7dc9eced63f3cdec0583": {
       "text": "Banka",
@@ -8649,6 +8651,4422 @@
       "contentVersion": 1,
       "reviewStatus": "unreviewed",
       "provider": "eSpeak-sr"
+    },
+    "8a3dca01076ea28a1d5f": {
+      "text": "A ako bude sunčano, ići ćemo u šetnju.",
+      "url": "/audio/8a3dca01076ea28a1d5f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "75cd5c5aebbd4628739c": {
+      "text": "A Ana? Da li je i ona učenica?",
+      "url": "/audio/75cd5c5aebbd4628739c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "733fb5a8cff118bf4164": {
+      "text": "A posle škole idem sa njim do biblioteke.",
+      "url": "/audio/733fb5a8cff118bf4164.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "39ab2bbe23347616b86e": {
+      "text": "A ko ste vi?",
+      "url": "/audio/39ab2bbe23347616b86e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d77c2b3c1d452c4772bd": {
+      "text": "A koje pitanje mu voditelj nije postavio?",
+      "url": "/audio/d77c2b3c1d452c4772bd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "33d19acc0a18e0bffe73": {
+      "text": "A u susednoj sobi rade tri studentkinje.",
+      "url": "/audio/33d19acc0a18e0bffe73.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b07e4feb8442d980d13f": {
+      "text": "A kolega koji je vodio postupak danas nije tu.",
+      "url": "/audio/b07e4feb8442d980d13f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f5f21282dcb3d094d446": {
+      "text": "Ako bude hladno, ostaćemo kod kuće.",
+      "url": "/audio/f5f21282dcb3d094d446.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7c2f6ad285418e5ce027": {
+      "text": "Ako sam dobro razumeo, glavni zaključak je da treba više vremena.",
+      "url": "/audio/7c2f6ad285418e5ce027.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "735a2429c2fc92760872": {
+      "text": "Ako počne kiša, promenićemo plan i otići u muzej.",
+      "url": "/audio/735a2429c2fc92760872.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c738095295cec2f8989a": {
+      "text": "Autobus kasni, zato ćemo stići kasnije.",
+      "url": "/audio/c738095295cec2f8989a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a35d7e578578ec5f2665": {
+      "text": "Ako sam vas dobro razumeo, predlažete duže radno vreme.",
+      "url": "/audio/a35d7e578578ec5f2665.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fa9fe6ae3a4963afea0f": {
+      "text": "Bili smo tamo prošle nedelje.",
+      "url": "/audio/fa9fe6ae3a4963afea0f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e76b74173697cdfa3015": {
+      "text": "Ako se rok stalno pomera, to može dovesti do dodatnih troškova.",
+      "url": "/audio/e76b74173697cdfa3015.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7b9e0741802abd1db8b5": {
+      "text": "Baš divno, opet je autobus zakasnio!",
+      "url": "/audio/7b9e0741802abd1db8b5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "701dd52b19d1c2ab3b6c": {
+      "text": "Boli me glava i malo me boli stomak.",
+      "url": "/audio/701dd52b19d1c2ab3b6c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "da08ca4106fca4c453a3": {
+      "text": "Cenim uloženi trud, ali mislim da prvi korak treba pojednostaviti.",
+      "url": "/audio/da08ca4106fca4c453a3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ae5bbb41faf29aa9568d": {
+      "text": "Budući da dokumentacija nije potpuna, postupak još traje.",
+      "url": "/audio/ae5bbb41faf29aa9568d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7da5bc44ac80c9c44597": {
+      "text": "Cilj projekta je da pojednostavi prijavu problema.",
+      "url": "/audio/7da5bc44ac80c9c44597.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6e216992965b15d9088a": {
+      "text": "Da li danas radiš od kuće?",
+      "url": "/audio/6e216992965b15d9088a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c303ca7e64bcd5f41619": {
+      "text": "Da li biste bili ljubazni da mi još jednom objasnite postupak?",
+      "url": "/audio/c303ca7e64bcd5f41619.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "95ca84bcbe759a86f779": {
+      "text": "Da li bi grad trebalo da proširi biciklističke staze?",
+      "url": "/audio/95ca84bcbe759a86f779.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6934eb42731643666e30": {
+      "text": "Da li ideš u biblioteku ili si već u biblioteci?",
+      "url": "/audio/6934eb42731643666e30.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "48f9ec38dd93e2e2b77e": {
+      "text": "Da li je blizu?",
+      "url": "/audio/48f9ec38dd93e2e2b77e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ffceb8b4f2498dd46b97": {
+      "text": "Da li dete uzima neku terapiju?",
+      "url": "/audio/ffceb8b4f2498dd46b97.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5d8caafe4a9be990100c": {
+      "text": "Da li je informacija potvrđena?",
+      "url": "/audio/5d8caafe4a9be990100c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "348cb015292c7f32feda": {
+      "text": "Da li imate potvrdu sa datumom prijema?",
+      "url": "/audio/348cb015292c7f32feda.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "16fb4f1509ce6c0a5367": {
+      "text": "Da li je dokumentacija potpuna ili nešto nedostaje?",
+      "url": "/audio/16fb4f1509ce6c0a5367.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "89f4b47517e8f7d5d5c7": {
+      "text": "Da li je to sve za danas?",
+      "url": "/audio/89f4b47517e8f7d5d5c7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c89f98381c78ac08a852": {
+      "text": "Da li je ugovor već potpisan?",
+      "url": "/audio/c89f98381c78ac08a852.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6159a00b213e0ae92494": {
+      "text": "Da li je stan još slobodan?",
+      "url": "/audio/6159a00b213e0ae92494.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c0c4fb464d36130b80eb": {
+      "text": "Da li je „škola” muškog ili ženskog roda?",
+      "url": "/audio/c0c4fb464d36130b80eb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8d3e40ab263124072f1d": {
+      "text": "Da li me čuješ? Ja te slabo čujem.",
+      "url": "/audio/8d3e40ab263124072f1d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e4f43012c3866a5d4648": {
+      "text": "Da li misliš da reč „vredan” znači isto što i „štetan”?",
+      "url": "/audio/e4f43012c3866a5d4648.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "da49695e5001cef39d8d": {
+      "text": "Da li se sećaš našeg prvog časa?",
+      "url": "/audio/da49695e5001cef39d8d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1a2bcd2527b2baf61237": {
+      "text": "Da li radiš subotom?",
+      "url": "/audio/1a2bcd2527b2baf61237.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0abea2ddfa53faaa9263": {
+      "text": "Da li si kupovao voće na pijaci?",
+      "url": "/audio/0abea2ddfa53faaa9263.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0ba80ef8d4f186538220": {
+      "text": "Da li si joj poslao poruku?",
+      "url": "/audio/0ba80ef8d4f186538220.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b946ddc69699a0e17848": {
+      "text": "Da li si novi učenik?",
+      "url": "/audio/b946ddc69699a0e17848.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d0979b1452126652cc55": {
+      "text": "Da li možemo da preciziramo šta podrazumevate pod „gotovim zadatkom”?",
+      "url": "/audio/d0979b1452126652cc55.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fb47fb613ad38e36ebe0": {
+      "text": "Da li si ranije često dolazio ovamo?",
+      "url": "/audio/fb47fb613ad38e36ebe0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d410a7223fbafaa9a99b": {
+      "text": "Da li ti se sviđa ova knjiga?",
+      "url": "/audio/d410a7223fbafaa9a99b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "200a9eb42736d8f78eb8": {
+      "text": "Da li vam odgovara sutra u deset?",
+      "url": "/audio/200a9eb42736d8f78eb8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bf924d21279c08f25992": {
+      "text": "Da li vam odgovara sutra ujutru?",
+      "url": "/audio/bf924d21279c08f25992.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0ec97639f62457e2cd92": {
+      "text": "Da li vam odgovara ovaj stan?",
+      "url": "/audio/0ec97639f62457e2cd92.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f9744698fea7d244ef59": {
+      "text": "Da li više voliš čaj ili kafu?",
+      "url": "/audio/f9744698fea7d244ef59.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "be18e1e89456175baf76": {
+      "text": "Da li zaposlenima više odgovara rad od kuće ili iz kancelarije?",
+      "url": "/audio/be18e1e89456175baf76.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "33a8b6be171cdb6ba118": {
+      "text": "Da li želiš da dođeš ranije?",
+      "url": "/audio/33a8b6be171cdb6ba118.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "70b97789def51030dba7": {
+      "text": "Da li za ekskurziju treba da potpišem saglasnost?",
+      "url": "/audio/70b97789def51030dba7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "aaedbcbc453774acd4bc": {
+      "text": "Da, desno.",
+      "url": "/audio/aaedbcbc453774acd4bc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "67b94be3579fcb904238": {
+      "text": "Da li želiš da idemo na kafu?",
+      "url": "/audio/67b94be3579fcb904238.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "45d8c3459da7e43f6dc4": {
+      "text": "Da proverim da li sam vas dobro razumeo: sastanak je u četvrtak?",
+      "url": "/audio/45d8c3459da7e43f6dc4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dd61f46c4531ba859c5a": {
+      "text": "Da, dva.",
+      "url": "/audio/dd61f46c4531ba859c5a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "67cc3a06ace66284a2d4": {
+      "text": "Da, definisaćemo jasne kriterijume prihvatanja.",
+      "url": "/audio/67cc3a06ace66284a2d4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1ac542e2f4c3d50d5a0c": {
+      "text": "Da, hvala. Samo proverite da li je račun tačan.",
+      "url": "/audio/1ac542e2f4c3d50d5a0c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c55714eb8bfffc4677c5": {
+      "text": "Da, izvolite.",
+      "url": "/audio/c55714eb8bfffc4677c5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "aaf587ba2f870efcb883": {
+      "text": "Da, jeste.",
+      "url": "/audio/aaf587ba2f870efcb883.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ad21347152516b60d93f": {
+      "text": "Da, izvolite. Kako možemo da pomognemo?",
+      "url": "/audio/ad21347152516b60d93f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b7d193fbbbc3bc48dc2b": {
+      "text": "Da, jesam.",
+      "url": "/audio/b7d193fbbbc3bc48dc2b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ad8005ea2d1385df806a": {
+      "text": "Da, ona je učenica.",
+      "url": "/audio/ad8005ea2d1385df806a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "46d701fe01fa65dee5a5": {
+      "text": "Da, molimo vas da obrazac vratite do petka.",
+      "url": "/audio/46d701fe01fa65dee5a5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "33faf974701b9652fae7": {
+      "text": "Da, sedmog oktobra.",
+      "url": "/audio/33faf974701b9652fae7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d0d1152b786128cc4283": {
+      "text": "Da, sto dinara.",
+      "url": "/audio/d0d1152b786128cc4283.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8c404d0e03cb90d77a3d": {
+      "text": "Da, radim od kuće, a sutra radim u kancelariji.",
+      "url": "/audio/8c404d0e03cb90d77a3d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "194c8b6e31d3a1bb0ce3": {
+      "text": "Da, svetao je i ima veliku kuhinju.",
+      "url": "/audio/194c8b6e31d3a1bb0ce3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5d1fcd7a092773145dc3": {
+      "text": "Da, tačno.",
+      "url": "/audio/5d1fcd7a092773145dc3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a2f9d0fc73f113174634": {
+      "text": "Da, tako je.",
+      "url": "/audio/a2f9d0fc73f113174634.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2f6d8e126a3dfd6c7b60": {
+      "text": "Da, žurim.",
+      "url": "/audio/2f6d8e126a3dfd6c7b60.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7d8ce2533552433621e6": {
+      "text": "Da, voleo bih da odemo posle posla.",
+      "url": "/audio/7d8ce2533552433621e6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7d05b6b55c9c5ba3b60c": {
+      "text": "Dajem je detetu, a ne njegovom bratu.",
+      "url": "/audio/7d05b6b55c9c5ba3b60c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0d3450bf7e219fda0b39": {
+      "text": "Da, to je prijatelj koji mi je pomogao prošle nedelje.",
+      "url": "/audio/0d3450bf7e219fda0b39.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9fa5065617b09d492188": {
+      "text": "Da, u četvrtak u jedanaest, ne u utorak.",
+      "url": "/audio/9fa5065617b09d492188.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "072563d44b2ed9d54af9": {
+      "text": "Dakle, imamo tri koraka koje treba pratiti.",
+      "url": "/audio/072563d44b2ed9d54af9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "78f7e24920b37421e315": {
+      "text": "Dakle, izbor zavisi od cilja i dostupnih resursa.",
+      "url": "/audio/78f7e24920b37421e315.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "afb46b5df8962786f79d": {
+      "text": "Dana petnaestog septembra predao sam dokumentaciju.",
+      "url": "/audio/afb46b5df8962786f79d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "69086607e0468770f50c": {
+      "text": "Dakle, rekao je da će doći sutra.",
+      "url": "/audio/69086607e0468770f50c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a905cda96f1da7faf23f": {
+      "text": "Danas ili sutra?",
+      "url": "/audio/a905cda96f1da7faf23f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "713de54fc89c24dda40b": {
+      "text": "Dakle, vreme navodimo uz izvor, a ne kao sopstvenu pretpostavku.",
+      "url": "/audio/713de54fc89c24dda40b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "43e3bd0f471cb6df54c4": {
+      "text": "Danas idem peške, jer je lepo vreme.",
+      "url": "/audio/43e3bd0f471cb6df54c4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6fdc917f786ac4e3924f": {
+      "text": "Devojka čita knjigu. „Devojka” je subjekat.",
+      "url": "/audio/6fdc917f786ac4e3924f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6083afda1563563c5e82": {
+      "text": "Delimično se slažem, ali imam jednu primedbu.",
+      "url": "/audio/6083afda1563563c5e82.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0015a983f0e8a8d87d3f": {
+      "text": "Desno?",
+      "url": "/audio/0015a983f0e8a8d87d3f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0200e15146f4c658d7f0": {
+      "text": "Dobar dan! Hleb, molim.",
+      "url": "/audio/0200e15146f4c658d7f0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "53d91e66bd098fdbd70b": {
+      "text": "Dobar dan! Izvinite, gde je prodavnica?",
+      "url": "/audio/53d91e66bd098fdbd70b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "be5606ab7585151fbce0": {
+      "text": "Dobar dan! Imate li džem?",
+      "url": "/audio/be5606ab7585151fbce0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1b8564036c24a6c9b2f2": {
+      "text": "Dobar dan! Dva čaja, molim.",
+      "url": "/audio/1b8564036c24a6c9b2f2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d77f3f2ce96aef673fe5": {
+      "text": "Dobar dan! Kako ste?",
+      "url": "/audio/d77f3f2ce96aef673fe5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a36c8ce24a8734bb0254": {
+      "text": "Dobar dan! Zovem se Kiril.",
+      "url": "/audio/a36c8ce24a8734bb0254.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "86173f80cdaf1021a7ac": {
+      "text": "Dobar dan, kako moje dete napreduje u školi?",
+      "url": "/audio/86173f80cdaf1021a7ac.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c67b7f6149e6e2212c85": {
+      "text": "Dobar dan, imam pitanje u vezi sa terminom.",
+      "url": "/audio/c67b7f6149e6e2212c85.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7d8eac4bacef8a7d2665": {
+      "text": "Dobar dan, kome mogu da predam zahtev?",
+      "url": "/audio/7d8eac4bacef8a7d2665.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8aa65d0d8a16e3affb6c": {
+      "text": "Dobar dan, gospodine Jovanoviću. Da li vam odgovara sastanak sutra?",
+      "url": "/audio/8aa65d0d8a16e3affb6c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3822fa6970a6e446042e": {
+      "text": "Dobar dan, ovde Aleksandar. Da li razgovaram sa servisom?",
+      "url": "/audio/3822fa6970a6e446042e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9fef5f29ddbb1daa2210": {
+      "text": "Dobar dan, komšija! Da li vam smeta buka?",
+      "url": "/audio/9fef5f29ddbb1daa2210.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "78f4559cf3c2e4bb4c54": {
+      "text": "Dobar dan, želela bih da zakažem pregled za dete.",
+      "url": "/audio/78f4559cf3c2e4bb4c54.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3e6840555b04daab6e12": {
+      "text": "Dobar dan, u stanu ne radi grejanje.",
+      "url": "/audio/3e6840555b04daab6e12.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d21ed548462312b1e3a6": {
+      "text": "Dobar dan, želeo bih da otvorim račun.",
+      "url": "/audio/d21ed548462312b1e3a6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f2e0c3ab2a7ae301aa1b": {
+      "text": "Dobar dan, šaljem vam poruku povodom našeg razgovora.",
+      "url": "/audio/f2e0c3ab2a7ae301aa1b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "08cde4ea99cb125c5f7f": {
+      "text": "Dobar dan. Ja sam Milica.",
+      "url": "/audio/08cde4ea99cb125c5f7f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "afb96b5c81d4fe6d3331": {
+      "text": "Dobar dan, želim da pitam kako moje dete napreduje i šta treba poneti na ekskurziju.",
+      "url": "/audio/afb96b5c81d4fe6d3331.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "927d574735d50640ddb3": {
+      "text": "Dobro, hvala. Doviđenja!",
+      "url": "/audio/927d574735d50640ddb3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "512d50997e32f452d15c": {
+      "text": "Dobro napreduje, ali treba još da vežba čitanje.",
+      "url": "/audio/512d50997e32f452d15c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2d0802cf17ec1778dd37": {
+      "text": "Dobro, hvala. A vi?",
+      "url": "/audio/2d0802cf17ec1778dd37.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "015ea80cba06135a1283": {
+      "text": "Dok sam pisao, neko je pozvonio.",
+      "url": "/audio/015ea80cba06135a1283.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "576d29886900adc5ba47": {
+      "text": "Dogovoreni termin je pomeren bez prethodnog obaveštenja.",
+      "url": "/audio/576d29886900adc5ba47.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "63a61cc99850ed4e5982": {
+      "text": "Dok smo čekali voz, iznenada je počela kiša.",
+      "url": "/audio/63a61cc99850ed4e5982.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8eb6dbc60ea3d26db5ec": {
+      "text": "Dolazim svakog petka, ali danas sam došao ranije.",
+      "url": "/audio/8eb6dbc60ea3d26db5ec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d88a33cf62285f7d7128": {
+      "text": "Dolazim od lekara. Idem do centra bez auta.",
+      "url": "/audio/d88a33cf62285f7d7128.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2673f1a3e0d173c9ba99": {
+      "text": "Dolazim vozom u osam, pa idem peške do kuće.",
+      "url": "/audio/2673f1a3e0d173c9ba99.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a4901ffc77427315f71b": {
+      "text": "Dolaziš li iz škole ili od lekara?",
+      "url": "/audio/a4901ffc77427315f71b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ddedb686b47832e0301a": {
+      "text": "Doviđenja!",
+      "url": "/audio/ddedb686b47832e0301a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2893abab6118d53cb53e": {
+      "text": "Drago mi je, Milice.",
+      "url": "/audio/2893abab6118d53cb53e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fc4622e0bc76e1ef841d": {
+      "text": "Donošenje konačne odluke očekujemo sledeće nedelje.",
+      "url": "/audio/fc4622e0bc76e1ef841d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bd454dfc37c46aa4d862": {
+      "text": "Dostavićemo odgovor nakon provere evidencije.",
+      "url": "/audio/bd454dfc37c46aa4d862.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d6e580130eff9af85bc0": {
+      "text": "Dođite sutra u devet na glavni ulaz. Da li vam odgovara?",
+      "url": "/audio/d6e580130eff9af85bc0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e4c77e8e8059c4aba03f": {
+      "text": "Dugo sam učio ovu lekciju, ali je nisam naučio do kraja.",
+      "url": "/audio/e4c77e8e8059c4aba03f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "12fd4f7cc9835fc36204": {
+      "text": "Dva čaja?",
+      "url": "/audio/12fd4f7cc9835fc36204.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e30afc3984368ff010c0": {
+      "text": "Dvesta dinara. Koliko kilograma želite?",
+      "url": "/audio/e30afc3984368ff010c0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "434705a63e1d2ed422f9": {
+      "text": "Eto, zato je važna i intonacija, ne samo reči.",
+      "url": "/audio/434705a63e1d2ed422f9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c19e086516fdcd24d314": {
+      "text": "Eto, našli smo rešenje! Baš mi je drago.",
+      "url": "/audio/c19e086516fdcd24d314.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "daff5111cecf9450ba8f": {
+      "text": "Fleksibilnost je prednost, dok nedostatak može biti slabija komunikacija.",
+      "url": "/audio/daff5111cecf9450ba8f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "eb2048c5f005a43b9e53": {
+      "text": "Gde je kuhinja u ovom stanu?",
+      "url": "/audio/eb2048c5f005a43b9e53.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e42be052e72b8a524c0a": {
+      "text": "Gde si pročitao tu vest?",
+      "url": "/audio/e42be052e72b8a524c0a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8f7a2dac73b403afa81e": {
+      "text": "Gde su ključevi?",
+      "url": "/audio/8f7a2dac73b403afa81e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "47831c3abddea4e59204": {
+      "text": "Gde je najbliža autobuska stanica?",
+      "url": "/audio/47831c3abddea4e59204.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e53a5bd201c1eb7f0f9e": {
+      "text": "Gde živiš i čime se baviš?",
+      "url": "/audio/e53a5bd201c1eb7f0f9e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ff541e5dc767c57879d2": {
+      "text": "Govoriš li srpski ili tek učiš?",
+      "url": "/audio/ff541e5dc767c57879d2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0339e1f197bffebe269e": {
+      "text": "Hajde prvo da proverimo ruter i vezu.",
+      "url": "/audio/0339e1f197bffebe269e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d15afe2d86dafa940bcd": {
+      "text": "Govornik govori brzo, ali jasno razlikujem ključne informacije.",
+      "url": "/audio/d15afe2d86dafa940bcd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b0dc3291feb2866eb573": {
+      "text": "Grejanje ne radi već dva dana. Možemo li da dogovorimo pregled instalacija?",
+      "url": "/audio/b0dc3291feb2866eb573.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4e88d6eaaaa082a19545": {
+      "text": "Hoćeš li sa mnom do pošte?",
+      "url": "/audio/4e88d6eaaaa082a19545.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "909b0016891e46aade86": {
+      "text": "Hladno je i pada kiša, ali nema vetra.",
+      "url": "/audio/909b0016891e46aade86.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cff2113a4739a41792a1": {
+      "text": "Hleb, mleko, sir i malo voća.",
+      "url": "/audio/cff2113a4739a41792a1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "14dc1569a75b54e4815d": {
+      "text": "Hvala na informaciji. Proverićemo datum prijema.",
+      "url": "/audio/14dc1569a75b54e4815d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dbef33148573c1e45b9a": {
+      "text": "Hoćeš li sutra čitati ili pročitati celu knjigu?",
+      "url": "/audio/dbef33148573c1e45b9a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3290c2c0523dfc9fd232": {
+      "text": "Hvala na mejlu. Odgovorićemo na navedena pitanja.",
+      "url": "/audio/3290c2c0523dfc9fd232.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "41aeb7ff429aa3561c6a": {
+      "text": "Hvala na poruci. Javićemo vam se kada proverimo podatke.",
+      "url": "/audio/41aeb7ff429aa3561c6a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "520afb305e65d8a65490": {
+      "text": "Hvala puno! Doviđenja!",
+      "url": "/audio/520afb305e65d8a65490.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2e2627e6fd21a2e697ff": {
+      "text": "Hvala na komentaru. Možete li da precizirate šta treba izmeniti?",
+      "url": "/audio/2e2627e6fd21a2e697ff.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c17a1b0ef8c33b3fec7b": {
+      "text": "Hvala! Vidimo se uskoro.",
+      "url": "/audio/c17a1b0ef8c33b3fec7b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5a3301f4838527380cce": {
+      "text": "Hvala što ste proverili; termin mi odgovara.",
+      "url": "/audio/5a3301f4838527380cce.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "17c02711c9c21a3d8797": {
+      "text": "Hvala. Proverićemo da li su prilozi čitljivi.",
+      "url": "/audio/17c02711c9c21a3d8797.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8bd63a58da783a44ffc9": {
+      "text": "I meni.",
+      "url": "/audio/8bd63a58da783a44ffc9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d26cae072916c69d3e5c": {
+      "text": "Hvala, predložiću konkretnu izmenu za sledeći sastanak.",
+      "url": "/audio/d26cae072916c69d3e5c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0887167f4001f735f78d": {
+      "text": "Idem u biblioteku; za pet minuta biću u biblioteci.",
+      "url": "/audio/0887167f4001f735f78d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fd414a8dbef27dab7ace": {
+      "text": "Hvala. Molimo vas da navedete i otvorena pitanja.",
+      "url": "/audio/fd414a8dbef27dab7ace.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "960b8d1dd28d8b32a2f2": {
+      "text": "I ja bih tako radio kada bih mogao.",
+      "url": "/audio/960b8d1dd28d8b32a2f2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "26ec7549afd29398e65e": {
+      "text": "Idem u školu, a zatim na trening.",
+      "url": "/audio/26ec7549afd29398e65e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "590150d0a9e2038044e1": {
+      "text": "Ideš u školu ili si već u školi?",
+      "url": "/audio/590150d0a9e2038044e1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b7c244c5f799a923d8e6": {
+      "text": "Iako je zadatak bio težak, uspeli smo da ga završimo.",
+      "url": "/audio/b7c244c5f799a923d8e6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2225c37f15b5e4db6f7b": {
+      "text": "Idemo ka centru, pa prilazimo ulazu.",
+      "url": "/audio/2225c37f15b5e4db6f7b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e62174d0350f27ee7148": {
+      "text": "Ideš li peške ili autobusom?",
+      "url": "/audio/e62174d0350f27ee7148.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "91add2285e848a0319ab": {
+      "text": "Idite pravo do raskrsnice, pa skrenite desno.",
+      "url": "/audio/91add2285e848a0319ab.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "62b2ae1c58afea2cf7f2": {
+      "text": "Idemo pravo do raskrsnice, pa desno prema keju.",
+      "url": "/audio/62b2ae1c58afea2cf7f2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4ba8b5c5055160061e0d": {
+      "text": "Idite pravo, zatim levo.",
+      "url": "/audio/4ba8b5c5055160061e0d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d4e5ca9dc6f7f21eecbe": {
+      "text": "Idite pravo, pa skrenite levo.",
+      "url": "/audio/d4e5ca9dc6f7f21eecbe.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1af71d8a8581001b6a17": {
+      "text": "Ima li mleka u frižideru?",
+      "url": "/audio/1af71d8a8581001b6a17.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "12ca382dc9acc966c59a": {
+      "text": "Imam deset minuta, ali nemam mnogo vremena.",
+      "url": "/audio/12ca382dc9acc966c59a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "231f49f19e68ed37ba9a": {
+      "text": "Imam brata i dve sestre.",
+      "url": "/audio/231f49f19e68ed37ba9a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4505d96ab14bb4dc5f5f": {
+      "text": "Imate li danas svež paradajz?",
+      "url": "/audio/4505d96ab14bb4dc5f5f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a4c20aec90303effcb46": {
+      "text": "Imamo. Želite li pola kilograma ili ceo kilogram?",
+      "url": "/audio/a4c20aec90303effcb46.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a8bb23c87677e294f7c0": {
+      "text": "Imaš li brata ili sestru?",
+      "url": "/audio/a8bb23c87677e294f7c0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "08fb83b73f631c414ea1": {
+      "text": "Internet mi ne radi od jutros.",
+      "url": "/audio/08fb83b73f631c414ea1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f27e6df2ca52787cbc18": {
+      "text": "Imaš li dovoljno vremena za razgovor?",
+      "url": "/audio/f27e6df2ca52787cbc18.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9662853a741b64124267": {
+      "text": "Ispričaj mi ukratko šta se dogodilo.",
+      "url": "/audio/9662853a741b64124267.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e5e7c7609de92c67a703": {
+      "text": "Izvini što kasnim.",
+      "url": "/audio/e5e7c7609de92c67a703.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a76c36abad063f8cc231": {
+      "text": "Iz teksta saznajemo da je sastanak održan u utorak.",
+      "url": "/audio/a76c36abad063f8cc231.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "862a6adf673bd226d6cf": {
+      "text": "Izvinite, gde je centar grada?",
+      "url": "/audio/862a6adf673bd226d6cf.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "067cbdb399a82af24743": {
+      "text": "Izvinite, mogu li da proverim da li sam vas dobro razumeo?",
+      "url": "/audio/067cbdb399a82af24743.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ba77a4d9a362ce390600": {
+      "text": "Izvinite, mogu li da prođem?",
+      "url": "/audio/ba77a4d9a362ce390600.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "757d100e5399a7932a4b": {
+      "text": "Izvinite, možete li da govorite malo sporije?",
+      "url": "/audio/757d100e5399a7932a4b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8cb6983e573de4b53944": {
+      "text": "Izvinite, možete li da mi pomognete oko kofera?",
+      "url": "/audio/8cb6983e573de4b53944.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ec174f2ba24d90d6e24a": {
+      "text": "Izvinite, možete li da ponovite poslednju rečenicu?",
+      "url": "/audio/ec174f2ba24d90d6e24a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2a248d709be9667b0b7b": {
+      "text": "Izvinite, nisam razumeo gde i kada treba da dođem.",
+      "url": "/audio/2a248d709be9667b0b7b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "04bc86db0b67986f1be6": {
+      "text": "Izvinite, tražim autobusku stanicu, a nemam internet.",
+      "url": "/audio/04bc86db0b67986f1be6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7112670816be0d38442a": {
+      "text": "Izvinite, nisam vas dobro čuo.",
+      "url": "/audio/7112670816be0d38442a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b422b5c76c14e350351c": {
+      "text": "Izvoli.",
+      "url": "/audio/b422b5c76c14e350351c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6027c8079be53ef6ee59": {
+      "text": "Izvinjavamo se. Predložićemo novi termin.",
+      "url": "/audio/6027c8079be53ef6ee59.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1892537d2d2104a7a550": {
+      "text": "Izvolite.",
+      "url": "/audio/1892537d2d2104a7a550.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "118a13eba3aa26336602": {
+      "text": "Izvinjavamo se. Proverićemo šta se dogodilo.",
+      "url": "/audio/118a13eba3aa26336602.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6da90752daaeccce7fbd": {
+      "text": "Izvolite! — Hvala! — Molim!",
+      "url": "/audio/6da90752daaeccce7fbd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4dcf26b573892f3a3191": {
+      "text": "Javićemo vam kada dobijemo precizniju informaciju.",
+      "url": "/audio/4dcf26b573892f3a3191.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2ce199c7480e1046b819": {
+      "text": "Je l' stižeš na vreme, il' ćeš kasniti?",
+      "url": "/audio/2ce199c7480e1046b819.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b13317d55af48c92bf51": {
+      "text": "Jedan hleb i pola kilograma sira, molim vas.",
+      "url": "/audio/b13317d55af48c92bf51.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "115c2ba63012ba8f3cdf": {
+      "text": "Je li ovo tvoja jakna?",
+      "url": "/audio/115c2ba63012ba8f3cdf.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4abb1b766410bc70b6ec": {
+      "text": "Jednu kafu bez šećera i čašu vode, molim vas.",
+      "url": "/audio/4abb1b766410bc70b6ec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f5a5cf05965a0bf8d3bd": {
+      "text": "Jesam, poslao sam joj ga jutros.",
+      "url": "/audio/f5a5cf05965a0bf8d3bd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "91a7735f61e40049c517": {
+      "text": "Jesi li posle toga završio tekst?",
+      "url": "/audio/91a7735f61e40049c517.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f1c891bb395f9a178ade": {
+      "text": "Jesam. Kao student sam ovde dolazio svakog petka.",
+      "url": "/audio/f1c891bb395f9a178ade.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9d471ae955274ae1b6fe": {
+      "text": "Jesam, i na kraju sam kupio kilogram jabuka.",
+      "url": "/audio/9d471ae955274ae1b6fe.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0446f41ae6dde1646aad": {
+      "text": "Jesi li uradio domaći zadatak?",
+      "url": "/audio/0446f41ae6dde1646aad.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3da3d54b3ba4a027dd59": {
+      "text": "Jesi li napisao pismo?",
+      "url": "/audio/3da3d54b3ba4a027dd59.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "58551f9d3fc3e4b77ba1": {
+      "text": "Jeste, ali prateća dokumentacija još nije pripremljena.",
+      "url": "/audio/58551f9d3fc3e4b77ba1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a2c53a737e2ab395afc1": {
+      "text": "Jesu, ali hajde da prvo proverimo zvanično obaveštenje.",
+      "url": "/audio/a2c53a737e2ab395afc1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fbc4e5a54ffa02e624b2": {
+      "text": "Kad bih imao više vremena, redovno bih vežbao govor.",
+      "url": "/audio/fbc4e5a54ffa02e624b2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d8cdda889dbecc19e727": {
+      "text": "Jeste. Kirija je četiristo evra mesečno.",
+      "url": "/audio/d8cdda889dbecc19e727.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d182e78e3307098a3765": {
+      "text": "Još pišem. Poslaću ga čim ga napišem.",
+      "url": "/audio/d182e78e3307098a3765.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f017e5501acf115f79fc": {
+      "text": "Kada ja dolazim na red?",
+      "url": "/audio/f017e5501acf115f79fc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ebc3e2e2ba4c466bcd06": {
+      "text": "Kada bude obrađen, obaveštenje će vam biti poslato.",
+      "url": "/audio/ebc3e2e2ba4c466bcd06.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b41d2e7ebe00527e8fe1": {
+      "text": "Kada je ekskurzija?",
+      "url": "/audio/b41d2e7ebe00527e8fe1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6365b5a0c0faf5a934cc": {
+      "text": "Kad smo stigli, prodavnica je već bila zatvorena.",
+      "url": "/audio/6365b5a0c0faf5a934cc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d32d481dcf0463895493": {
+      "text": "Kada ste bili u Beogradu?",
+      "url": "/audio/d32d481dcf0463895493.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "17f14ed213297224fed8": {
+      "text": "Kada obično ustaješ?",
+      "url": "/audio/17f14ed213297224fed8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1c63eb0b065f174570ed": {
+      "text": "Kada stižeš iz Beograda?",
+      "url": "/audio/1c63eb0b065f174570ed.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "74bb195f893b4ef2a2ce": {
+      "text": "Kakav vam je radni raspored?",
+      "url": "/audio/74bb195f893b4ef2a2ce.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cf6b6265a277fc3807d4": {
+      "text": "Kako da stignem do biblioteke?",
+      "url": "/audio/cf6b6265a277fc3807d4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2940668358dcabe45393": {
+      "text": "Kako se osećate od jutros?",
+      "url": "/audio/2940668358dcabe45393.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "17760a396767c4b97581": {
+      "text": "Kakva je vaša nova učiteljica?",
+      "url": "/audio/17760a396767c4b97581.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fa2f00fa583d7b3ecf18": {
+      "text": "Ko je ovo?",
+      "url": "/audio/fa2f00fa583d7b3ecf18.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "681cf5ae739a6a77b573": {
+      "text": "Kako odavde da stignemo do Dunava?",
+      "url": "/audio/681cf5ae739a6a77b573.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3d6c3f42c2cb9e14ed30": {
+      "text": "Kako ćete meriti da li je cilj postignut?",
+      "url": "/audio/3d6c3f42c2cb9e14ed30.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ec98d6ff07888b564f25": {
+      "text": "Kakvo je vreme danas?",
+      "url": "/audio/ec98d6ff07888b564f25.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "483cece6b11bd6ae3c4f": {
+      "text": "Ko je učestvovao u događaju i kada se on desio?",
+      "url": "/audio/483cece6b11bd6ae3c4f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "da337a1c8692eafbf26e": {
+      "text": "Ko sve živi u vašem stanu?",
+      "url": "/audio/da337a1c8692eafbf26e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "34e6b378fb67ee89a035": {
+      "text": "Ko čita knjigu?",
+      "url": "/audio/34e6b378fb67ee89a035.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b61ccb394adbee353570": {
+      "text": "Koja dokumenta trenutno imate kod sebe?",
+      "url": "/audio/b61ccb394adbee353570.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e5196b0ad32f1a1d53c4": {
+      "text": "Koga vidiš ispred škole?",
+      "url": "/audio/e5196b0ad32f1a1d53c4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e993b35030a15edcf5a1": {
+      "text": "Koga čekaš ispred zgrade?",
+      "url": "/audio/e993b35030a15edcf5a1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bb97b817bdbc1c6202d1": {
+      "text": "Koja je glavna prednost rada od kuće?",
+      "url": "/audio/bb97b817bdbc1c6202d1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d90e3f0306eeb026ed16": {
+      "text": "Koje rešenje biste mogli da predložite?",
+      "url": "/audio/d90e3f0306eeb026ed16.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "23b63b12cccf64ca5eb6": {
+      "text": "Koji deo posla zahteva najviše komunikacije?",
+      "url": "/audio/23b63b12cccf64ca5eb6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1324184a0aabd9765e1f": {
+      "text": "Koje rizike ste uočili i šta je sledeći korak?",
+      "url": "/audio/1324184a0aabd9765e1f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "14647425baa6eec62264": {
+      "text": "Koje veštine su vam najvažnije za ovaj posao?",
+      "url": "/audio/14647425baa6eec62264.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a0de5a1d6689182d5f71": {
+      "text": "Koji autobus ide do železničke stanice?",
+      "url": "/audio/a0de5a1d6689182d5f71.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7d97333a112a5727be65": {
+      "text": "Koje zadatke treba da završimo do petka?",
+      "url": "/audio/7d97333a112a5727be65.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "08e15841855ad147a958": {
+      "text": "Koji dokaz podržava zaključak i šta bi mu moglo protivrečiti?",
+      "url": "/audio/08e15841855ad147a958.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3e066b7b8956fc89ce8f": {
+      "text": "Koji primer rešavanja problema biste izdvojili iz dosadašnjeg iskustva?",
+      "url": "/audio/3e066b7b8956fc89ce8f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f8aa9caed10e9f112094": {
+      "text": "Koji put je kraći?",
+      "url": "/audio/f8aa9caed10e9f112094.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a6ab356848c88437ee41": {
+      "text": "Koliko sira želite?",
+      "url": "/audio/a6ab356848c88437ee41.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4ba1a072614fc4dc764f": {
+      "text": "Koliko godina ima tvoj sin?",
+      "url": "/audio/4ba1a072614fc4dc764f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "03fbf1fcd85a3820369a": {
+      "text": "Koliko košta kilogram jabuka?",
+      "url": "/audio/03fbf1fcd85a3820369a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1dfb1b152b4abd20b9c3": {
+      "text": "Koliko košta voda?",
+      "url": "/audio/1dfb1b152b4abd20b9c3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "340e421ba3004b3f71c6": {
+      "text": "Koliko često dolaziš ovde?",
+      "url": "/audio/340e421ba3004b3f71c6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6199b82c5810c7dbbe05": {
+      "text": "Kuda ideš posle posla?",
+      "url": "/audio/6199b82c5810c7dbbe05.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "961c3d1a262ca06e4724": {
+      "text": "Kuhinja je pored dnevne sobe.",
+      "url": "/audio/961c3d1a262ca06e4724.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c1d77909f5e30d5947d2": {
+      "text": "Kome daješ ovu knjigu?",
+      "url": "/audio/c1d77909f5e30d5947d2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6989d29320ed90aa630a": {
+      "text": "Kuda treba da idemo?",
+      "url": "/audio/6989d29320ed90aa630a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2c15dbed289c226624d7": {
+      "text": "Kupujem knjigu, a ne svesku.",
+      "url": "/audio/2c15dbed289c226624d7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "18a9030bfda22e4c2a3a": {
+      "text": "Mi smo novi učenici.",
+      "url": "/audio/18a9030bfda22e4c2a3a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2c4c3d6ab65660532f08": {
+      "text": "Majstor nije došao u dogovoreno vreme.",
+      "url": "/audio/2c4c3d6ab65660532f08.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1609cdc09abdbd955745": {
+      "text": "Linija broj četiri. Siđite na poslednjoj stanici.",
+      "url": "/audio/1609cdc09abdbd955745.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "448493e586801f62c092": {
+      "text": "Marko, možeš li da dođeš?",
+      "url": "/audio/448493e586801f62c092.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "49e7d6aa60fc91f0d4b3": {
+      "text": "Mislim da bi to pomoglo, ali treba razmotriti i potrebe pešaka.",
+      "url": "/audio/49e7d6aa60fc91f0d4b3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3730e3857b5adad2ea80": {
+      "text": "Mogu da ti pokažem jedan primer.",
+      "url": "/audio/3730e3857b5adad2ea80.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "590a76ad8531f71693fc": {
+      "text": "Mogu li da platim karticom?",
+      "url": "/audio/590a76ad8531f71693fc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d4a9e2cd72503a06c506": {
+      "text": "Mogu, ali tek posle posla.",
+      "url": "/audio/d4a9e2cd72503a06c506.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "761a353c36304353bdaa": {
+      "text": "Mogu li da uplatim gotovinu na svoj račun?",
+      "url": "/audio/761a353c36304353bdaa.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "30dc6fbfef6143bf275e": {
+      "text": "Moja uloga je da podržavam korisnike i koordiniram tehničke zahteve.",
+      "url": "/audio/30dc6fbfef6143bf275e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5ab4d178ceb01c0c7bb5": {
+      "text": "Moj sin ima devet godina.",
+      "url": "/audio/5ab4d178ceb01c0c7bb5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1f3234adabff6e2a360d": {
+      "text": "Moje dete ne može sutra na ekskurziju zbog pregleda.",
+      "url": "/audio/1f3234adabff6e2a360d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "78ad65e048ed45bd1227": {
+      "text": "Mogu, ali prvo moram da odem kod nje.",
+      "url": "/audio/78ad65e048ed45bd1227.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "679ccb49e9615c116d2a": {
+      "text": "Molim vas da mi dostavite informaciju o statusu postupka.",
+      "url": "/audio/679ccb49e9615c116d2a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5ea7c3f00ae70ea9ee35": {
+      "text": "Molim vas da me obavestite o očekivanom roku odgovora.",
+      "url": "/audio/5ea7c3f00ae70ea9ee35.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a1954fb15bcc1355009d": {
+      "text": "Molim vas da mi odgovor pošaljete i pisanim putem.",
+      "url": "/audio/a1954fb15bcc1355009d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7dea1be31783d33c8275": {
+      "text": "Molim te, napiši mi adresu kad stigneš.",
+      "url": "/audio/7dea1be31783d33c8275.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3a13391c890c819446f4": {
+      "text": "Molim vas da navedete konkretno pitanje i broj predmeta.",
+      "url": "/audio/3a13391c890c819446f4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7fd0a6003a2c39f9e11e": {
+      "text": "Molim vas, dvesta grama sira i čašu vode.",
+      "url": "/audio/7fd0a6003a2c39f9e11e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bb67b77b42b7ac0175f2": {
+      "text": "Molim vas, navedite broj ranije prijave kako bismo je pronašli.",
+      "url": "/audio/bb67b77b42b7ac0175f2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "16be6cd7e9304add427a": {
+      "text": "Molim vas, možete li da proverite status mog zahteva?",
+      "url": "/audio/16be6cd7e9304add427a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "feff318c0c5f6dd762bb": {
+      "text": "Molim vas, pokažite potvrdu o prijemu dokumenata.",
+      "url": "/audio/feff318c0c5f6dd762bb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "083a62ae50813fde52b8": {
+      "text": "Molim vas, sačekajte da pregledamo priloge.",
+      "url": "/audio/083a62ae50813fde52b8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d2edf371b8d7d1166c00": {
+      "text": "Molim vas, objasnite i kako ćete proveriti rezultat.",
+      "url": "/audio/d2edf371b8d7d1166c00.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bdad9afda66273dae09e": {
+      "text": "Molim vas, sačekajte svoj red na šalteru.",
+      "url": "/audio/bdad9afda66273dae09e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5e31b5af8fe06472124f": {
+      "text": "Molim za pojašnjenje treće tačke uputstva.",
+      "url": "/audio/5e31b5af8fe06472124f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e89dea1c1f4439541b40": {
+      "text": "Molimo vas da navedete datum prethodnog obraćanja.",
+      "url": "/audio/e89dea1c1f4439541b40.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "92c83ffef34773a454ec": {
+      "text": "Molimo vas da navedete broj predmeta radi provere.",
+      "url": "/audio/92c83ffef34773a454ec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c121f64b330d2180488e": {
+      "text": "Moram da završim posao pre večeri.",
+      "url": "/audio/c121f64b330d2180488e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "05ddec212e6f124a1a98": {
+      "text": "Možemo da ponudimo novi termin ili povraćaj uplate.",
+      "url": "/audio/05ddec212e6f124a1a98.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f79cbdec867402573e13": {
+      "text": "Možemo li da se čujemo u pet?",
+      "url": "/audio/f79cbdec867402573e13.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9906885472a0da4ea02b": {
+      "text": "Možete li da mi kažete u kojoj je fazi moj zahtev?",
+      "url": "/audio/9906885472a0da4ea02b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "22dc2c6194d7043e7726": {
+      "text": "Možemo li da razmotrimo alternativni raspored?",
+      "url": "/audio/22dc2c6194d7043e7726.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "23188dd1e8c20c31d17a": {
+      "text": "Možete li da mi objasnite kako se obračunava plata?",
+      "url": "/audio/23188dd1e8c20c31d17a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a8084ecbd26c48600a0d": {
+      "text": "Možete li da mi kažete broj predmeta?",
+      "url": "/audio/a8084ecbd26c48600a0d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3d150686f0090890fc24": {
+      "text": "Možemo. Predložićemo termin i potvrditi ga porukom.",
+      "url": "/audio/3d150686f0090890fc24.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "05c790e4df345f55f14e": {
+      "text": "Možete. Da li imate bankovnu karticu?",
+      "url": "/audio/05c790e4df345f55f14e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0a1713270910da5b8f3d": {
+      "text": "Možete. Izvolite račun.",
+      "url": "/audio/0a1713270910da5b8f3d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2bae2ee6d60eefd2eb18": {
+      "text": "Možeš li da mi potvrdiš kada ćeš poslati dokumenta?",
+      "url": "/audio/2bae2ee6d60eefd2eb18.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8cf3e5c18b371f142cc1": {
+      "text": "Možeš li da mi pomogneš?",
+      "url": "/audio/8cf3e5c18b371f142cc1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "670f7e7c2c3a1c9d2ad3": {
+      "text": "Možeš li da mi prepričaš glavne informacije iz članka?",
+      "url": "/audio/670f7e7c2c3a1c9d2ad3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "48e81a0e5f74aae9733c": {
+      "text": "Možeš li to da potkrepiš konkretnim primerom?",
+      "url": "/audio/48e81a0e5f74aae9733c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4c85d3f84e685a50c781": {
+      "text": "Na kraju sastanka zabeležićemo zaključke i odgovorne osobe.",
+      "url": "/audio/4c85d3f84e685a50c781.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6b3f3ffcc195ec0e7fe4": {
+      "text": "Na primer, bicikl je praktičan za kratke relacije.",
+      "url": "/audio/6b3f3ffcc195ec0e7fe4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "614c286b1a58607ae286": {
+      "text": "Na računu je iznos veći nego prošlog meseca.",
+      "url": "/audio/614c286b1a58607ae286.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "199c99638176b487e2a7": {
+      "text": "Najpre proverimo podatke, zatim uporedimo rezultate, a na kraju donesimo odluku.",
+      "url": "/audio/199c99638176b487e2a7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4242708e186a0b8ab073": {
+      "text": "Nameravam da završim kurs i pronađem novi posao.",
+      "url": "/audio/4242708e186a0b8ab073.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8cf1479642fe4dc29915": {
+      "text": "Najpre ću opisati problem, zatim naš predlog rešenja.",
+      "url": "/audio/8cf1479642fe4dc29915.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2dbaff381bcfd793b90f": {
+      "text": "Na stolu su, pored knjige.",
+      "url": "/audio/2dbaff381bcfd793b90f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4f1d4e36469debd50740": {
+      "text": "Najpre smo zakasnili, zatim našli taksi i na kraju stigli na vreme.",
+      "url": "/audio/4f1d4e36469debd50740.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f2724da559d1ad65c7dd": {
+      "text": "Naravno, gde treba da ga odnesemo?",
+      "url": "/audio/f2724da559d1ad65c7dd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "012279dc402b6dd1e5e4": {
+      "text": "Naravno, govoriću malo sporije.",
+      "url": "/audio/012279dc402b6dd1e5e4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "687d5577c423bf40f06d": {
+      "text": "Naravno, pogledajmo uslove ugovora i način isplate.",
+      "url": "/audio/687d5577c423bf40f06d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "86404d44885d4ea094df": {
+      "text": "Naravno, ponoviću vam sve važne informacije.",
+      "url": "/audio/86404d44885d4ea094df.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f28786e8a16d23f6c5b3": {
+      "text": "Naravno, ponoviću polako.",
+      "url": "/audio/f28786e8a16d23f6c5b3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3559ff469f58bc7a1eb0": {
+      "text": "Naravno, proći ćemo kroz sve korake.",
+      "url": "/audio/3559ff469f58bc7a1eb0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a3f91af06676dcd32374": {
+      "text": "Naravno, šaljem ti lokaciju za minut.",
+      "url": "/audio/a3f91af06676dcd32374.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "39aa7f398a2bc8c06deb": {
+      "text": "Naravno, poslaćemo vam spisak i dogovoriti kratak razgovor.",
+      "url": "/audio/39aa7f398a2bc8c06deb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a5af3ee6f945dfacab8d": {
+      "text": "Naravno, hajde da uporedimo uslove u obe verzije.",
+      "url": "/audio/a5af3ee6f945dfacab8d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5d43e41c0d84da8c5ff6": {
+      "text": "Naravno. Koji termin vam odgovara?",
+      "url": "/audio/5d43e41c0d84da8c5ff6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d2287b4e0dc37e00192e": {
+      "text": "Naravno. Objasnićemo kako je odluka doneta.",
+      "url": "/audio/d2287b4e0dc37e00192e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1848e121824cdac1e85a": {
+      "text": "Naravno. Da li da zatvorim vrata?",
+      "url": "/audio/1848e121824cdac1e85a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cce73c8bc3d63627ba25": {
+      "text": "Naravno. Ana, sačekaj me trenutak!",
+      "url": "/audio/cce73c8bc3d63627ba25.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "13bd12fb037b248daa3d": {
+      "text": "Naravno. Popunite adresu primaoca ovde.",
+      "url": "/audio/13bd12fb037b248daa3d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "376a9b7f58faad35542a": {
+      "text": "Naravno. Sledeći korak je da potvrdite termin telefonom.",
+      "url": "/audio/376a9b7f58faad35542a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b51b83441660c9c551c7": {
+      "text": "Naslov kaže da je otvorena nova biblioteka.",
+      "url": "/audio/b51b83441660c9c551c7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "237234fa4caba2d4a975": {
+      "text": "Naš predlog smanjuje broj nepotrebnih koraka u postupku.",
+      "url": "/audio/237234fa4caba2d4a975.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f66a48a9a23ba5015639": {
+      "text": "Nažalost, ne mogu da dođem u dogovoreno vreme.",
+      "url": "/audio/f66a48a9a23ba5015639.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8d26a8cd8d86747370ec": {
+      "text": "Ne brinite, sve je u redu. Hvala što ste pitali.",
+      "url": "/audio/8d26a8cd8d86747370ec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9789912de9206204f83c": {
+      "text": "Ne danas, u petak.",
+      "url": "/audio/9789912de9206204f83c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "30ef50ab98e094b13792": {
+      "text": "Ne osećam se dobro i imam temperaturu.",
+      "url": "/audio/30ef50ab98e094b13792.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c5b65db233d251404f3a": {
+      "text": "Ne, trenutno ne uzima nikakve lekove.",
+      "url": "/audio/c5b65db233d251404f3a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9beb57201fd11ff5a8f0": {
+      "text": "Ne, samo to. Hvala!",
+      "url": "/audio/9beb57201fd11ff5a8f0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "43e9c939c3383233c5ed": {
+      "text": "Ne, to je njena jakna. Moja je ovde.",
+      "url": "/audio/43e9c939c3383233c5ed.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2440573e3df677198c85": {
+      "text": "Ne radim subotom. Danas nisam na poslu.",
+      "url": "/audio/2440573e3df677198c85.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "623f33e3d564b39d0256": {
+      "text": "Nema mleka, ali ima vode.",
+      "url": "/audio/623f33e3d564b39d0256.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2332f5e6d74b9969f12c": {
+      "text": "Ne. „Vredan” znači marljiv ili dragocen, zavisno od konteksta.",
+      "url": "/audio/2332f5e6d74b9969f12c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "81a07bc1ca31d71e76a3": {
+      "text": "Nisam rekao da TI kasniš.",
+      "url": "/audio/81a07bc1ca31d71e76a3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "293b966a2691d018a5e0": {
+      "text": "Nema problema. Pređite ulicu i skrenite levo.",
+      "url": "/audio/293b966a2691d018a5e0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b5c40e172eab6b9ee047": {
+      "text": "Nisam pisao jer nisam imao potrebne podatke.",
+      "url": "/audio/b5c40e172eab6b9ee047.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "da91f04e3b30d0aa30e5": {
+      "text": "Nema veze, tek smo stigli.",
+      "url": "/audio/da91f04e3b30d0aa30e5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "049d279ec8420976c4fd": {
+      "text": "Nisam siguran. Čini mi se da je to samo pretpostavka.",
+      "url": "/audio/049d279ec8420976c4fd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "009e2f7f5541ded28291": {
+      "text": "Ništa posebno. A kako ste vi, gospodine Petroviću?",
+      "url": "/audio/009e2f7f5541ded28291.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cfb928d674720eadb71a": {
+      "text": "Obuci jaknu i tople cipele.",
+      "url": "/audio/cfb928d674720eadb71a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a93e22e1934ecc0986dd": {
+      "text": "Od sinoć. Kašlje i žali se na bol u grlu.",
+      "url": "/audio/a93e22e1934ecc0986dd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d88ae40a0a9b6b5ae865": {
+      "text": "Od kada dete ima temperaturu?",
+      "url": "/audio/d88ae40a0a9b6b5ae865.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d3ff9e0848cb00508e35": {
+      "text": "Obraćam vam se ponovo povodom predmeta o kojem sam već pisao.",
+      "url": "/audio/d3ff9e0848cb00508e35.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3b1df7e0d7e6615ffefe": {
+      "text": "Obraćam vam se povodom problema koji sam već prijavio.",
+      "url": "/audio/3b1df7e0d7e6615ffefe.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6f9a325d6ec05614e58c": {
+      "text": "Opiši mi svoj običan dan.",
+      "url": "/audio/6f9a325d6ec05614e58c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9941aabc9231566cdf53": {
+      "text": "Odlično; sada pokušaj da prepričaš poruku svojim rečima.",
+      "url": "/audio/9941aabc9231566cdf53.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "66ab7b1fef6785a09909": {
+      "text": "Odlučio sam se za njega jer mi odgovara raspored.",
+      "url": "/audio/66ab7b1fef6785a09909.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "571cad716bc29e50e398": {
+      "text": "Ona je Ana.",
+      "url": "/audio/571cad716bc29e50e398.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "88c03324a714b6b0325d": {
+      "text": "Otvorite prozor, molim vas.",
+      "url": "/audio/88c03324a714b6b0325d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c9e287423fa3f6bdc1c4": {
+      "text": "Opišite situaciju kada ste rešili težak problem.",
+      "url": "/audio/c9e287423fa3f6bdc1c4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "43ced583e73c6bc015c8": {
+      "text": "Ovaj dopis ponavlja istu informaciju u tri pasusa.",
+      "url": "/audio/43ced583e73c6bc015c8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9ce1dc69cc917253a1a3": {
+      "text": "Ovaj izveštaj sam napisao ja, a ne moj kolega.",
+      "url": "/audio/9ce1dc69cc917253a1a3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0e7620f2cdd6aa617f5c": {
+      "text": "Ovde radi jedan student, a tamo rade dva studenta.",
+      "url": "/audio/0e7620f2cdd6aa617f5c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fe7e52b5ce71e101f47f": {
+      "text": "Pa, šta ćemo sada?",
+      "url": "/audio/fe7e52b5ce71e101f47f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5a8b3be507f71bb24b02": {
+      "text": "Ovaj je kraći, ali onaj je bezbedniji.",
+      "url": "/audio/5a8b3be507f71bb24b02.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4b53a41403eb8ece46ce": {
+      "text": "Ovaj pasus je previše složen za čitaoca.",
+      "url": "/audio/4b53a41403eb8ece46ce.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9fe6350b149b92711ab5": {
+      "text": "Pa, baš si me iznenadio tom vešću!",
+      "url": "/audio/9fe6350b149b92711ab5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1f85b85e988a5e5c59bc": {
+      "text": "Planirali smo izlet, ali se vreme promenilo.",
+      "url": "/audio/1f85b85e988a5e5c59bc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1c86ea8d1181c7f17fe9": {
+      "text": "Pisao sam izveštaj, a sada sam ga završio.",
+      "url": "/audio/1c86ea8d1181c7f17fe9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "edadf85f556155872bea": {
+      "text": "Pišem olovkom, a račun šaljem telefonom.",
+      "url": "/audio/edadf85f556155872bea.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f98fedcbcca79bc81b6e": {
+      "text": "Podatak o datumu je činjenica, ali ocena uspeha je autorov stav.",
+      "url": "/audio/f98fedcbcca79bc81b6e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e3590a058087d117dd69": {
+      "text": "Po mom mišljenju, praktičnije je od prethodnog.",
+      "url": "/audio/e3590a058087d117dd69.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fc74baf1558667260f09": {
+      "text": "Pokušaću da je pročitam do kraja.",
+      "url": "/audio/fc74baf1558667260f09.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "95d6a6419f445f357f0f": {
+      "text": "Po tonu razumem da zapravo nisi zadovoljan.",
+      "url": "/audio/95d6a6419f445f357f0f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d5fa437db0050ded1a91": {
+      "text": "Poslaćemo majstora čim se dogovorimo o terminu.",
+      "url": "/audio/d5fa437db0050ded1a91.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d8156c941300421a43b4": {
+      "text": "Postoji rizik da isporuka kasni zbog zavisnosti od drugog tima.",
+      "url": "/audio/d8156c941300421a43b4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5879d779e1097404897b": {
+      "text": "Posle posla idem kući i čitam knjigu.",
+      "url": "/audio/5879d779e1097404897b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0655351f53ac6dff3cd8": {
+      "text": "Poslaću ih do petka i javiću ti čim završim.",
+      "url": "/audio/0655351f53ac6dff3cd8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f1f9c21bb72320fdcdbf": {
+      "text": "Pošaljite nam broj predmeta radi provere.",
+      "url": "/audio/f1f9c21bb72320fdcdbf.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d1d6794047488e9f6a3a": {
+      "text": "Poznaješ li čoveka koji radi u biblioteci?",
+      "url": "/audio/d1d6794047488e9f6a3a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "82de11693b745e963bb0": {
+      "text": "Pošaljite nam podatke i odgovorićemo vam.",
+      "url": "/audio/82de11693b745e963bb0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "54e981d50625c57fb9b9": {
+      "text": "Poštovani, molim vas za informaciju o statusu predmeta koji sam podneo prošlog meseca.",
+      "url": "/audio/54e981d50625c57fb9b9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0541bfb36a0f7b1ff8d0": {
+      "text": "Poštovani, obraćam vam se povodom ranije podnetog zahteva.",
+      "url": "/audio/0541bfb36a0f7b1ff8d0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0a908f2b517bbbf447d7": {
+      "text": "Poštovani, molim vas za informaciju o toku postupka.",
+      "url": "/audio/0a908f2b517bbbf447d7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e4be64e534dcfa630353": {
+      "text": "Poštovani, molim vas za pisanu potvrdu dogovora.",
+      "url": "/audio/e4be64e534dcfa630353.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4c5591dcf3b6cb9d184a": {
+      "text": "Pravo, pa desno.",
+      "url": "/audio/4c5591dcf3b6cb9d184a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "45f7bff9a690f7f42219": {
+      "text": "Poštovani, šaljem vam izveštaj o završenim zadacima.",
+      "url": "/audio/45f7bff9a690f7f42219.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2a56122c6beaed386183": {
+      "text": "Pravo, pa levo?",
+      "url": "/audio/2a56122c6beaed386183.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "10308542310812ab6daa": {
+      "text": "Poštovani, pišem vam povodom jučerašnjeg razgovora.",
+      "url": "/audio/10308542310812ab6daa.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fa38e005875cf18e26c3": {
+      "text": "Pre potpisivanja ugovora želeo bih da razjasnimo rok isporuke.",
+      "url": "/audio/fa38e005875cf18e26c3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "74a11078764a1572aa59": {
+      "text": "Predao sam dokumenta prošle nedelje. Da li je prijava potpuna?",
+      "url": "/audio/74a11078764a1572aa59.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "45f8aef090fe83aa2cf5": {
+      "text": "Predlažem rezervni plan i raniju proveru statusa.",
+      "url": "/audio/45f8aef090fe83aa2cf5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3cd4a8aa2160fc7d7bfc": {
+      "text": "Predlažem da pojednostavimo prvi korak i dodamo proveru.",
+      "url": "/audio/3cd4a8aa2160fc7d7bfc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bd1bb5bdc6fc2592f2b7": {
+      "text": "Preko puta pošte, pored parka.",
+      "url": "/audio/bd1bb5bdc6fc2592f2b7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "66d39e9750fca5b83aba": {
+      "text": "Predstaviću cilj projekta, rezultate testiranja i tri najveća rizika.",
+      "url": "/audio/66d39e9750fca5b83aba.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5f7669f95bd1537e6311": {
+      "text": "Preformulisaću ga jasnije, bez promene značenja.",
+      "url": "/audio/5f7669f95bd1537e6311.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f8ddd3df2da59b367547": {
+      "text": "Prema saopštenju organizatora, događaj počinje u pet.",
+      "url": "/audio/f8ddd3df2da59b367547.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c264566de0a298f6f58b": {
+      "text": "Prema izveštaju, radovi su završeni juče.",
+      "url": "/audio/c264566de0a298f6f58b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f579076dc6097d31d3cb": {
+      "text": "Pričam sa prijateljem o našoj školi.",
+      "url": "/audio/f579076dc6097d31d3cb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "89c1cc71081ade691662": {
+      "text": "Proverićemo obračun. Možete li da pošaljete broj računa?",
+      "url": "/audio/89c1cc71081ade691662.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2a05d2bd923198d6b996": {
+      "text": "Prema rasporedu, autobus polazi u osam.",
+      "url": "/audio/2a05d2bd923198d6b996.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4cd379da164a0157c0ad": {
+      "text": "Proverićemo status čim dobijemo broj predmeta.",
+      "url": "/audio/4cd379da164a0157c0ad.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6e22826f3112da534855": {
+      "text": "Prošle godine sam promenio posao i preselio se u drugi grad.",
+      "url": "/audio/6e22826f3112da534855.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "814c0fa30f0c7ac390e8": {
+      "text": "Pročitajmo i prvi pasus da proverimo gde se ona nalazi.",
+      "url": "/audio/814c0fa30f0c7ac390e8.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ad70cfe3829f2246830a": {
+      "text": "Prošlo je deset dana, a još nisam dobio odgovor.",
+      "url": "/audio/ad70cfe3829f2246830a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ed338c720588dc3f7eda": {
+      "text": "Prva tačka dnevnog reda je pregled otvorenih pitanja.",
+      "url": "/audio/ed338c720588dc3f7eda.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e63d89582a4146f2f2ef": {
+      "text": "Prvo proveravamo podatke, zatim testiramo izmene.",
+      "url": "/audio/e63d89582a4146f2f2ef.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "66ad182d8a9e453f6c3e": {
+      "text": "Radim kao tehničar, a po zanimanju sam inženjer.",
+      "url": "/audio/66ad182d8a9e453f6c3e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "adc3ff335bfcf6766d8b": {
+      "text": "Radim u smenama, a slobodne dane dogovaramo unapred.",
+      "url": "/audio/adc3ff335bfcf6766d8b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2eff66a3491ea8fe65be": {
+      "text": "Prvo sam se javio porodici, zatim raspakovao stvari, a na kraju odmorio.",
+      "url": "/audio/2eff66a3491ea8fe65be.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0a43c46864fc6745adc0": {
+      "text": "Radim kod kuće zato što čekam majstora.",
+      "url": "/audio/0a43c46864fc6745adc0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "df9d78727915f97f7579": {
+      "text": "Prvo označava kretanje, a drugo mesto.",
+      "url": "/audio/df9d78727915f97f7579.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dfa433368b692d1c7790": {
+      "text": "Prvo sam prikupio informacije, a zatim predložio rešenje timu.",
+      "url": "/audio/dfa433368b692d1c7790.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1408924508da6d0cea9f": {
+      "text": "Radim u tehničkoj podršci i pomažem korisnicima.",
+      "url": "/audio/1408924508da6d0cea9f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bced8b9aeb45299daba2": {
+      "text": "Radio sam ga dugo, ali još nisam sve uradio.",
+      "url": "/audio/bced8b9aeb45299daba2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "38c4a22d85c7e8b798a2": {
+      "text": "Radio sam kod kuće, a sestra je radila u školi.",
+      "url": "/audio/38c4a22d85c7e8b798a2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bc8d79407e838f5e72c3": {
+      "text": "Radim u tehničkoj podršci i voleo bih da razvijam veštine u novom timu.",
+      "url": "/audio/bc8d79407e838f5e72c3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "26c73864517fe1c782b1": {
+      "text": "Rado ćemo vam pojasniti šta ta odredba znači.",
+      "url": "/audio/26c73864517fe1c782b1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "53151f2778db704ea086": {
+      "text": "Razumem vaš stav, međutim imam drugačije iskustvo.",
+      "url": "/audio/53151f2778db704ea086.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "739bd3f467971b4be994": {
+      "text": "Razumem vašu odluku, međutim želeo bih dodatno objašnjenje.",
+      "url": "/audio/739bd3f467971b4be994.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cedcd16d98fa918bb472": {
+      "text": "Razumem, naglasak menja ono što želiš da istakneš.",
+      "url": "/audio/cedcd16d98fa918bb472.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c1298e552654e143123a": {
+      "text": "Razumem. Da li možete da mi pošaljete fotografiju termostata?",
+      "url": "/audio/c1298e552654e143123a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9247795e04837b5ebc6e": {
+      "text": "Razumem. Možete li da mi kažete koje još simptome imate?",
+      "url": "/audio/9247795e04837b5ebc6e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b3ab3d7a8af412f31fb9": {
+      "text": "Razumem. Molim vas, opišite šta se tačno dogodilo.",
+      "url": "/audio/b3ab3d7a8af412f31fb9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3beaf733b997a896a269": {
+      "text": "Razumem. Pošaljite kratko obaveštenje učiteljici.",
+      "url": "/audio/3beaf733b997a896a269.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7caf15d3a2d7b2309a9f": {
+      "text": "Razumemo vaš zahtev; proverićemo navedene činjenice.",
+      "url": "/audio/7caf15d3a2d7b2309a9f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9e6e3e6caed792751496": {
+      "text": "Razumem. Proverićemo da li je vaš zahtev obrađen.",
+      "url": "/audio/9e6e3e6caed792751496.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8dcaed0485b9b8fa40f2": {
+      "text": "Razumem: želiš da naglasiš ko je autor.",
+      "url": "/audio/8dcaed0485b9b8fa40f2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8e555877f91babf277b4": {
+      "text": "Razumemo. Možete li da navedete datum dogovora?",
+      "url": "/audio/8e555877f91babf277b4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3f1cb919f3091daffc98": {
+      "text": "Razumem: proces je trajao, a rezultat još nije postignut.",
+      "url": "/audio/3f1cb919f3091daffc98.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dbd49296ad112cda8a31": {
+      "text": "Rešavanje problema zahteva saradnju više službi.",
+      "url": "/audio/dbd49296ad112cda8a31.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c26b0ef9140823d23a68": {
+      "text": "Rekao je: „Doći ću sutra.”",
+      "url": "/audio/c26b0ef9140823d23a68.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "329c4d686a7e2ffaf306": {
+      "text": "Rok je realan ako unapred dobijemo potrebne podatke.",
+      "url": "/audio/329c4d686a7e2ffaf306.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f61461a92d8884896752": {
+      "text": "Sa Jelenom. Pozovite me posle tri sata.",
+      "url": "/audio/f61461a92d8884896752.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "002556cf80bdc268556d": {
+      "text": "S kim ideš na koncert?",
+      "url": "/audio/002556cf80bdc268556d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "24891179700c7ff18109": {
+      "text": "S druge strane, nije pogodan za svakoga i za svako vreme.",
+      "url": "/audio/24891179700c7ff18109.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bfd118ff61aceb36777f": {
+      "text": "Sa prijateljem i njegovom sestrom.",
+      "url": "/audio/bfd118ff61aceb36777f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a771fd9f7ce5bb92876e": {
+      "text": "Sagovornik je rekao da rok zavisi od isporuke materijala.",
+      "url": "/audio/a771fd9f7ce5bb92876e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b045fa9437537cd6380a": {
+      "text": "Sa kim razgovaram i kada mogu ponovo da vas pozovem?",
+      "url": "/audio/b045fa9437537cd6380a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "73c37515f8c636a824dc": {
+      "text": "Sada idem u školu. Za deset minuta biću u školi.",
+      "url": "/audio/73c37515f8c636a824dc.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4c0f2649dc87fba8f4eb": {
+      "text": "Sačuvajte broj prijave; kontaktiraćemo vas telefonom.",
+      "url": "/audio/4c0f2649dc87fba8f4eb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0c6cb53c8657f0b2a5b7": {
+      "text": "Sedmog oktobra.",
+      "url": "/audio/0c6cb53c8657f0b2a5b7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ba0a1f9494610ab7131b": {
+      "text": "Sačekajte još malo; red vožnje je na tabli.",
+      "url": "/audio/ba0a1f9494610ab7131b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9073181221f1d5e0d22a": {
+      "text": "Sedmog oktobra, je li tako?",
+      "url": "/audio/9073181221f1d5e0d22a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5883c2b22f4df5a88469": {
+      "text": "Sećam se, ali sada se spremam za novi.",
+      "url": "/audio/5883c2b22f4df5a88469.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "99db080626017d89ff70": {
+      "text": "Slažeš li se sa ovim predlogom?",
+      "url": "/audio/99db080626017d89ff70.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3e152406179ff241ce98": {
+      "text": "Skratiću tekst i ostaviti jasan zahtev na kraju.",
+      "url": "/audio/3e152406179ff241ce98.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a66c815ea9482cfea1c2": {
+      "text": "Slušao sam razgovor, ali nisam razumeo svaku reč.",
+      "url": "/audio/a66c815ea9482cfea1c2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8dc74963ad8c5964665b": {
+      "text": "Sto?",
+      "url": "/audio/8dc74963ad8c5964665b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1533c3da0142eb8546a4": {
+      "text": "Smatram da je došlo do nesporazuma i molim za dodatnu proveru.",
+      "url": "/audio/1533c3da0142eb8546a4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "740bd4abc217689218d9": {
+      "text": "Srećom, imali smo kišobrane.",
+      "url": "/audio/740bd4abc217689218d9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "677f27e53428c0c4390f": {
+      "text": "Smatram da je javni prevoz koristan zato što smanjuje gužvu.",
+      "url": "/audio/677f27e53428c0c4390f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8a643b5ee803f1f365d3": {
+      "text": "Stoga molimo da nam dostavite preostale priloge.",
+      "url": "/audio/8a643b5ee803f1f365d3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6adaa2e7bfa104e3c805": {
+      "text": "Stvarno? Zar su već objavili rezultate?",
+      "url": "/audio/6adaa2e7bfa104e3c805.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9f8ff85f2d3e3e2afe96": {
+      "text": "Sutra ću učiti srpski, a uveče ću odmarati.",
+      "url": "/audio/9f8ff85f2d3e3e2afe96.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "33366884907e21b27ec2": {
+      "text": "Sutra želimo da obiđemo centar i kej u Novom Sadu.",
+      "url": "/audio/33366884907e21b27ec2.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4119d7a5c058ad9ddf1f": {
+      "text": "Telefonom bih to pitao jednostavnije: „Možete li da mi potvrdite dogovor?”",
+      "url": "/audio/4119d7a5c058ad9ddf1f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "77946ff2d350a78fd9a0": {
+      "text": "Sviđa mi se priča, ali mi se ne sviđa kraj.",
+      "url": "/audio/77946ff2d350a78fd9a0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "de349d7c3e36a24a8eec": {
+      "text": "Tačno, ali samo tokom najprometnijih dana.",
+      "url": "/audio/de349d7c3e36a24a8eec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "267b078ef3655c78b269": {
+      "text": "Tako je, ali treba dodati i razlog odlaganja.",
+      "url": "/audio/267b078ef3655c78b269.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "240f3644df838337da66": {
+      "text": "To je podatak; tvrdnja da je najbolji prevoz predstavlja mišljenje.",
+      "url": "/audio/240f3644df838337da66.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5bee0bb5be312bec8cfd": {
+      "text": "To je osoba čiji je zahtev juče odobren.",
+      "url": "/audio/5bee0bb5be312bec8cfd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4aa50e23165330fb316f": {
+      "text": "To je telefon mog brata, nije moj.",
+      "url": "/audio/4aa50e23165330fb316f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dd5aab0822c0791a2376": {
+      "text": "To nije bilo lako, ali sam mnogo naučio iz tog iskustva.",
+      "url": "/audio/dd5aab0822c0791a2376.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5e260d82ff4a9e94010e": {
+      "text": "Treba da poneseš dokumenta i nalaze, ako ih imaš.",
+      "url": "/audio/5e260d82ff4a9e94010e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a668683b6ad6bc20b096": {
+      "text": "To je torba moje sestre, koja živi u Srbiji.",
+      "url": "/audio/a668683b6ad6bc20b096.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7da756cb8c913734f978": {
+      "text": "Treba li vam kesa?",
+      "url": "/audio/7da756cb8c913734f978.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f129be48e1d70852a105": {
+      "text": "U kupatilu curi voda iz cevi.",
+      "url": "/audio/f129be48e1d70852a105.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bbc0d23af744775ff500": {
+      "text": "U koliko sati se vidimo?",
+      "url": "/audio/bbc0d23af744775ff500.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "99b54268be3f03fb5434": {
+      "text": "U formalnoj poruci radije bih napisao: „Poštovani, da li vam odgovara večerašnji termin?”",
+      "url": "/audio/99b54268be3f03fb5434.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a4ab0595b00e8deda2b7": {
+      "text": "U novinama. O tome smo razgovarali na času.",
+      "url": "/audio/a4ab0595b00e8deda2b7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ed3c2ebda365b385df67": {
+      "text": "U petak.",
+      "url": "/audio/ed3c2ebda365b385df67.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fafea5362b5239251f67": {
+      "text": "U poruci ću napisati pune oblike: „Da li stižeš ili ćeš kasniti?”",
+      "url": "/audio/fafea5362b5239251f67.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "559af9cc3cc5e4b38a9f": {
+      "text": "U pola osam.",
+      "url": "/audio/559af9cc3cc5e4b38a9f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a908f6a0a5a84118c401": {
+      "text": "U prepričavanju navedi izvor i ne dodaj neproverene detalje.",
+      "url": "/audio/a908f6a0a5a84118c401.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "91c8d153739019529614": {
+      "text": "U redu, hvala!",
+      "url": "/audio/91c8d153739019529614.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d1e2c6def30cf4204632": {
+      "text": "U prilogu dostavljam kopiju potvrde i potpisan obrazac.",
+      "url": "/audio/d1e2c6def30cf4204632.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e9f3f5861277c08d5c58": {
+      "text": "U ponedeljak ću raditi, a u sredu želim da idem na kurs.",
+      "url": "/audio/e9f3f5861277c08d5c58.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4d10d283c985350b3f5e": {
+      "text": "U principu se slažem sa predlogom, ali bih izmenio rok.",
+      "url": "/audio/4d10d283c985350b3f5e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1636a57a8117e115fe5b": {
+      "text": "U redu, hvala.",
+      "url": "/audio/1636a57a8117e115fe5b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7d303a11dd5acd797541": {
+      "text": "U redu, javi mi kada stignete.",
+      "url": "/audio/7d303a11dd5acd797541.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f4a027d581932f99921f": {
+      "text": "U sedam i trideset?",
+      "url": "/audio/f4a027d581932f99921f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5e1749803ba80aa990b0": {
+      "text": "U redu. Čekam te.",
+      "url": "/audio/5e1749803ba80aa990b0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4803582cc7c41f2b6d3e": {
+      "text": "U redu, možete li da objasnite na šta mislite?",
+      "url": "/audio/4803582cc7c41f2b6d3e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6a400a57b4d3ff630aad": {
+      "text": "U redu, poslaćemo odgovor na vašu adresu.",
+      "url": "/audio/6a400a57b4d3ff630aad.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4cc238a0c552b12ab48e": {
+      "text": "U tom slučaju možemo da potvrdimo plan do petka.",
+      "url": "/audio/4cc238a0c552b12ab48e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "e4489affcc5e34d8b0aa": {
+      "text": "Ukratko, oba pristupa imaju i prednosti i nedostatke.",
+      "url": "/audio/e4489affcc5e34d8b0aa.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a965ccba6e04828e0514": {
+      "text": "Ujutru radim, posle podne učim srpski, a uveče odmaram.",
+      "url": "/audio/a965ccba6e04828e0514.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b7295fa2a078fe6f0aa1": {
+      "text": "Upoznao sam novog kolegu i počeli smo da radimo zajedno.",
+      "url": "/audio/b7295fa2a078fe6f0aa1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "baa550b34da39b377310": {
+      "text": "Ustajem u sedam, pa doručkujem.",
+      "url": "/audio/baa550b34da39b377310.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bf09ac9f98fc1e82dc75": {
+      "text": "Uprkos problemima, sačuvali smo dogovoreni rok.",
+      "url": "/audio/bf09ac9f98fc1e82dc75.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "919fec0aa83dfb98ad7a": {
+      "text": "Upravo sam završio razgovor, a sada pišem mejl.",
+      "url": "/audio/919fec0aa83dfb98ad7a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "32bad8ccd3bf3c922f33": {
+      "text": "Učio bih srpski i češće putovao.",
+      "url": "/audio/32bad8ccd3bf3c922f33.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4010a33f5da4abe03549": {
+      "text": "Uveče kuvam večeru i čitam.",
+      "url": "/audio/4010a33f5da4abe03549.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6439c5cb93523b960248": {
+      "text": "Učim srpski, a živim u Novom Sadu.",
+      "url": "/audio/6439c5cb93523b960248.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "470e7e276c6206e8917e": {
+      "text": "Važi, naravno. Nema problema.",
+      "url": "/audio/470e7e276c6206e8917e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bd5a8340ac6512858839": {
+      "text": "Važi. Pisaću ti ako se plan promeni.",
+      "url": "/audio/bd5a8340ac6512858839.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fedcfca543cbe79924a4": {
+      "text": "Važno je da si prepoznao temu i nameru govornika.",
+      "url": "/audio/fedcfca543cbe79924a4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "dd3dcf7de28a36f35c41": {
+      "text": "Veoma je dobra i strpljiva.",
+      "url": "/audio/dd3dcf7de28a36f35c41.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "89f351ab2f50a447eec3": {
+      "text": "Već tri dana imam temperaturu i želeo bih da zakažem pregled.",
+      "url": "/audio/89f351ab2f50a447eec3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3dceaeed0be67e552a09": {
+      "text": "Vidimo se!",
+      "url": "/audio/3dceaeed0be67e552a09.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "9a2ade8c26365aefde8c": {
+      "text": "Vidim učitelja i njegovog učenika.",
+      "url": "/audio/9a2ade8c26365aefde8c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0a560db5acc4a93bca81": {
+      "text": "Važni su mi komunikacija, rešavanje problema i rad u timu.",
+      "url": "/audio/0a560db5acc4a93bca81.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4b9da18df23e8d254154": {
+      "text": "Voda ili sok?",
+      "url": "/audio/4b9da18df23e8d254154.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c2508aa6e6e454353f82": {
+      "text": "Više volim čaj, naročito uveče.",
+      "url": "/audio/c2508aa6e6e454353f82.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "c4d76ac3de130fa2a94f": {
+      "text": "Voda ili kafa?",
+      "url": "/audio/c4d76ac3de130fa2a94f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bd6253d849e52b862168": {
+      "text": "Voda, molim.",
+      "url": "/audio/bd6253d849e52b862168.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d8459b36ae718d049077": {
+      "text": "Vodu, molim.",
+      "url": "/audio/d8459b36ae718d049077.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "843944d74ffe54c5fae3": {
+      "text": "Voleo bih, ali ne mogu pre šest.",
+      "url": "/audio/843944d74ffe54c5fae3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "31c728a45f1983c19984": {
+      "text": "Voleo bih jasne ciljeve, mogućnost učenja i dobru saradnju.",
+      "url": "/audio/31c728a45f1983c19984.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0ee44cba1815b4051ab0": {
+      "text": "Za službeni mejl bolje je: „Molim vas da mi dostavite detalje po dolasku.”",
+      "url": "/audio/0ee44cba1815b4051ab0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8344ea9521c129c727db": {
+      "text": "Za informacije o postupku obratite se nadležnoj službi.",
+      "url": "/audio/8344ea9521c129c727db.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2660766db9bc20470fee": {
+      "text": "Zabeleži primere grešaka, napravi plan vežbanja i ponovi zadatke bez pomoći.",
+      "url": "/audio/2660766db9bc20470fee.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "5d2a830f1bbd07bab9ff": {
+      "text": "Zanima me ovaj posao jer želim da razvijam svoje veštine.",
+      "url": "/audio/5d2a830f1bbd07bab9ff.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7c410aca59a39dc08ac0": {
+      "text": "Zapiši ga i pitaj u kom kontekstu se koristi.",
+      "url": "/audio/7c410aca59a39dc08ac0.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "03a82f856e5ba37ea3ec": {
+      "text": "Zahtev sam poslao u ponedeljak, ali odgovor još nisam dobio.",
+      "url": "/audio/03a82f856e5ba37ea3ec.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0f6fbc92c28ee40e2fcb": {
+      "text": "Zatim objasnite koje korake predlažete za naredni mesec.",
+      "url": "/audio/0f6fbc92c28ee40e2fcb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6ea666f7706f37a51ded": {
+      "text": "Zato smo odlučili da ostanemo u gradu.",
+      "url": "/audio/6ea666f7706f37a51ded.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "16481c1ded1c9b3c9c14": {
+      "text": "Zato treba na vreme proceniti moguće posledice.",
+      "url": "/audio/16481c1ded1c9b3c9c14.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7ad892aceaa9821d7a14": {
+      "text": "Zašto danas ne ideš u grad?",
+      "url": "/audio/7ad892aceaa9821d7a14.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8e8d9fd45eb186542fa9": {
+      "text": "Zavisi od uloge reči: škola je blizu, vidim školu, nema škole.",
+      "url": "/audio/8e8d9fd45eb186542fa9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6ba58625a5063ad772bd": {
+      "text": "Zavisi od posla; važni su i samostalnost i saradnja u timu.",
+      "url": "/audio/6ba58625a5063ad772bd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "a758600bce121a03bc13": {
+      "text": "Zašto kažemo „u školu”, a „u školi”?",
+      "url": "/audio/a758600bce121a03bc13.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3ba2a441a613e865de0d": {
+      "text": "Zašto danas radiš od kuće?",
+      "url": "/audio/3ba2a441a613e865de0d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "2ab5b42e1529a01d71dd": {
+      "text": "Zašto kažeš „škola”, „školu” i „škole”?",
+      "url": "/audio/2ab5b42e1529a01d71dd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "04bdaa4e9bf63e326a59": {
+      "text": "Zašto nisi ništa napisao?",
+      "url": "/audio/04bdaa4e9bf63e326a59.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8d5bc5f07acafc11255f": {
+      "text": "Zašto si izabrao taj kurs?",
+      "url": "/audio/8d5bc5f07acafc11255f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "046d83cd66ccbcb30829": {
+      "text": "Zašto želite da radite kod nas?",
+      "url": "/audio/046d83cd66ccbcb30829.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "535bed0a77c2bd22717c": {
+      "text": "Ćao!",
+      "url": "/audio/535bed0a77c2bd22717c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8808a2d3687fe1989c0a": {
+      "text": "Zbog toga smo odlučili da kupovinu ostavimo za sutra.",
+      "url": "/audio/8808a2d3687fe1989c0a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1e280c81d4502966ca4c": {
+      "text": "Zdravo! Kasnim deset minuta.",
+      "url": "/audio/1e280c81d4502966ca4c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1d7d7f111a3ea0f445cb": {
+      "text": "Ćao! Ideš u školu?",
+      "url": "/audio/1d7d7f111a3ea0f445cb.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3b81e0e8b9a4168ad1ad": {
+      "text": "Ćao, pošalji mi detalje čim stigneš.",
+      "url": "/audio/3b81e0e8b9a4168ad1ad.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "3c05c29a40e4838bc9f3": {
+      "text": "Ćao, možeš li da mi pošalješ adresu sastanka?",
+      "url": "/audio/3c05c29a40e4838bc9f3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b62372ccb33f24d31c10": {
+      "text": "Čekam brata, a ne taksi.",
+      "url": "/audio/b62372ccb33f24d31c10.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "70515f0aa0f98844dc73": {
+      "text": "Ćao, šta ima novo?",
+      "url": "/audio/70515f0aa0f98844dc73.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "468fffe7b841fb43ae57": {
+      "text": "Čaj, molim.",
+      "url": "/audio/468fffe7b841fb43ae57.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "119df51fb106c8c96bee": {
+      "text": "Čija je ovo torba?",
+      "url": "/audio/119df51fb106c8c96bee.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0759a4eff7eada764046": {
+      "text": "Čekao sam autobus, a onda sam ušao u prodavnicu.",
+      "url": "/audio/0759a4eff7eada764046.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1e45ac1e6d74babc4e4b": {
+      "text": "Ćao, šta ima? Jesi li slobodan večeras?",
+      "url": "/audio/1e45ac1e6d74babc4e4b.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b79f2cfe5123d861ed2c": {
+      "text": "Čiji je ovo telefon?",
+      "url": "/audio/b79f2cfe5123d861ed2c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "0adcb392bd6e5c23d65c": {
+      "text": "Čime se bavite?",
+      "url": "/audio/0adcb392bd6e5c23d65c.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4e30fc4825626745afbd": {
+      "text": "Čime pišeš ovu poruku?",
+      "url": "/audio/4e30fc4825626745afbd.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ec2de80a52b726f5f76a": {
+      "text": "Čime se bavite u svojoj firmi?",
+      "url": "/audio/ec2de80a52b726f5f76a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "fee94dd68d9c789b35d4": {
+      "text": "Škola je tamo.",
+      "url": "/audio/fee94dd68d9c789b35d4.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4a773c89b0bd12812e22": {
+      "text": "Čujem te, ali ne vidim ga na ekranu.",
+      "url": "/audio/4a773c89b0bd12812e22.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6ed0fcb4cc2ff3546ae5": {
+      "text": "Članak navodi dva razloga, a autor zatim iznosi svoje mišljenje.",
+      "url": "/audio/6ed0fcb4cc2ff3546ae5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "d77d6853a6fd9b57a801": {
+      "text": "Članak navodi podatke o prevozu, ali autorov zaključak je njegovo mišljenje.",
+      "url": "/audio/d77d6853a6fd9b57a801.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1ecab73b208dec162087": {
+      "text": "Čuo sam jedan izraz koji ranije nisam poznavao.",
+      "url": "/audio/1ecab73b208dec162087.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "12141f167d6c32c73b3e": {
+      "text": "Šta bi radio kad bi imao više slobodnog vremena?",
+      "url": "/audio/12141f167d6c32c73b3e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "afbe870f297aa78ed934": {
+      "text": "Šta danas kupuješ?",
+      "url": "/audio/afbe870f297aa78ed934.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "25088149205c2cefc3ef": {
+      "text": "Šta da obučem ako je napolju hladno?",
+      "url": "/audio/25088149205c2cefc3ef.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7167fd92318588a401a1": {
+      "text": "Šta misliš o novom rasporedu?",
+      "url": "/audio/7167fd92318588a401a1.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "4a5ffeb73a91634fb3a7": {
+      "text": "Šta očekujete od svog sledećeg posla?",
+      "url": "/audio/4a5ffeb73a91634fb3a7.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8485c563b52c91395d80": {
+      "text": "Šta radiš posle posla?",
+      "url": "/audio/8485c563b52c91395d80.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ee715c8ad2be5f1b98c6": {
+      "text": "Šta radiš uveče?",
+      "url": "/audio/ee715c8ad2be5f1b98c6.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "321f1139732f15e87348": {
+      "text": "Šta planiraš za sledeću nedelju?",
+      "url": "/audio/321f1139732f15e87348.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b516d9f55a6e15db09ea": {
+      "text": "Šta si prvo uradio kada si stigao?",
+      "url": "/audio/b516d9f55a6e15db09ea.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "910991bbace0f17f0e24": {
+      "text": "Šta planiraš da uradiš narednog meseca?",
+      "url": "/audio/910991bbace0f17f0e24.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cedf2499033bc1c8625d": {
+      "text": "Šta se desilo pre nekoliko dana?",
+      "url": "/audio/cedf2499033bc1c8625d.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6ecef99593e11cec3fd3": {
+      "text": "Šta si radio juče?",
+      "url": "/audio/6ecef99593e11cec3fd3.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f18b2720aa4beafb656f": {
+      "text": "Šta si radio celo jutro?",
+      "url": "/audio/f18b2720aa4beafb656f.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "cf303c9352c3dccb2a65": {
+      "text": "Šta te boli?",
+      "url": "/audio/cf303c9352c3dccb2a65.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "78845fa9b26db77715a9": {
+      "text": "Šta si radio kad je počela kiša?",
+      "url": "/audio/78845fa9b26db77715a9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "7405ee326dcefd923bdf": {
+      "text": "Šta treba dalje da uradim i kome da se javim?",
+      "url": "/audio/7405ee326dcefd923bdf.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b538cfaf2da9ee93874a": {
+      "text": "Šta treba da kupimo za doručak?",
+      "url": "/audio/b538cfaf2da9ee93874a.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "f1cb29f19f8517d19389": {
+      "text": "Šta treba da ponesem na pregled?",
+      "url": "/audio/f1cb29f19f8517d19389.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bc7fd48aada51240c8f9": {
+      "text": "Šta ćeš raditi sutra?",
+      "url": "/audio/bc7fd48aada51240c8f9.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1e7fcc52be1bd47684ac": {
+      "text": "Šta ćete popiti?",
+      "url": "/audio/1e7fcc52be1bd47684ac.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "1e23735089db4093a40e": {
+      "text": "Želeo bih da pitam šta treba da prijavim po dolasku.",
+      "url": "/audio/1e23735089db4093a40e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "ca20e8d8c89c29b2806e": {
+      "text": "Šta znamo, a šta je samo mišljenje?",
+      "url": "/audio/ca20e8d8c89c29b2806e.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b30aa253d8e83ada9cde": {
+      "text": "Šta trenutno radiš?",
+      "url": "/audio/b30aa253d8e83ada9cde.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "78be514cf12c53779832": {
+      "text": "Želeo bih da pošaljem preporučeno pismo.",
+      "url": "/audio/78be514cf12c53779832.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "8093c8e8f1a2d6a8d646": {
+      "text": "Želeo bih da prijavim problem sa uslugom.",
+      "url": "/audio/8093c8e8f1a2d6a8d646.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "b93cdd57201dd02cf936": {
+      "text": "Želeo bih da zakažem pregled.",
+      "url": "/audio/b93cdd57201dd02cf936.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "bee1d11fb8a312b9ed81": {
+      "text": "Ženskog je roda, a „grad” je muškog.",
+      "url": "/audio/bee1d11fb8a312b9ed81.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "683646fc94cc99fdd321": {
+      "text": "Želim da proverim u kojim veštinama još imam poteškoća.",
+      "url": "/audio/683646fc94cc99fdd321.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "6a77ff86157c0fe5bc11": {
+      "text": "Živim u gradu i radim u školi.",
+      "url": "/audio/6a77ff86157c0fe5bc11.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "920638f81194b8d00139": {
+      "text": "Želim da naučim kako da napišem zvaničan zahtev.",
+      "url": "/audio/920638f81194b8d00139.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
+    },
+    "04754c9318598a3f97f5": {
+      "text": "Živimo moja supruga, naša deca i ja.",
+      "url": "/audio/04754c9318598a3f97f5.mp3",
+      "contentVersion": 2,
+      "reviewStatus": "unreviewed",
+      "provider": "eSpeak-sr",
+      "licenseReview": "pending_before_public_distribution"
     }
   }
 }

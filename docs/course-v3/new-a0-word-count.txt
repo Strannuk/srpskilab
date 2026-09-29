@@ -1,0 +1,1 @@
+55 newly added lexicon rows; 714+55=769 total expected on an unchanged base catalog.

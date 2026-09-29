@@ -72,7 +72,7 @@ export function ProgressProvider({children}:{children:ReactNode}){
    const pending=await takeQueue(uid);
    if(!pending.length)return;
    for(const a of pending){try{
-     const{data,error}=await getSupabase().rpc('submit_lesson_attempt',{p_lesson_id:a.lessonId,p_attempt_key:a.key,p_answers:a.answers});
+     const{data,error}=await getSupabase().rpc(a.schemaVersion===2?'submit_lesson_attempt_v3':'submit_lesson_attempt',{p_lesson_id:a.lessonId,p_attempt_key:a.key,p_answers:a.answers});
      if(error)throw error;
      if(data)await removeAttempt(a.key);
    }catch(e){setSyncError(`Несинхронизированная попытка: ${errorMessage(e)}`);setSyncStatus('failed');return}}
@@ -95,14 +95,14 @@ export function ProgressProvider({children}:{children:ReactNode}){
  };
  const submitLesson=async(lessonId:string,answers:Record<string,string>,key:string):Promise<UploadResult>=>{
    if(!uid)throw Error('Требуется вход');setSyncStatus('saving');
-   if(!navigator.onLine){await queueAttempt({userId:uid,lessonId,answers,key,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true}}
+   if(!navigator.onLine){await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true}}
    try{
-     const{data,error}=await getSupabase().rpc('submit_lesson_attempt',{p_lesson_id:lessonId,p_attempt_key:key,p_answers:answers});
+     const{data,error}=await getSupabase().rpc('submit_lesson_attempt_v3',{p_lesson_id:lessonId,p_attempt_key:key,p_answers:answers});
      if(error)throw error;
      await refresh();setSyncStatus('saved');return data as AttemptResult;
    }catch(e){
      if(!navigator.onLine||/failed to fetch|network|load failed/i.test(errorMessage(e))){
-       await queueAttempt({userId:uid,lessonId,answers,key,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true};
+       await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true};
      }
      setSyncStatus('failed');setSyncError(errorMessage(e));throw e;
    }

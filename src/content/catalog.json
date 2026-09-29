@@ -67841,6 +67841,446 @@
       "usageRu": "",
       "id": "usavršavanje",
       "level": "B2"
+    },
+    {
+      "id": "v3-m1l1-dan",
+      "sr": "dan",
+      "ru": "день",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l1-more",
+      "sr": "more",
+      "ru": "море",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l2-beba",
+      "sr": "beba",
+      "ru": "младенец",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l3-noć",
+      "sr": "noć",
+      "ru": "ночь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l4-ljudi",
+      "sr": "ljudi",
+      "ru": "люди",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l4-konj",
+      "sr": "konj",
+      "ru": "конь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l4-njena",
+      "sr": "njena",
+      "ru": "её",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l4-džem",
+      "sr": "džem",
+      "ru": "джем",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m1l4-džak",
+      "sr": "džak",
+      "ru": "мешок",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l1-w7",
+      "sr": "Kako si?",
+      "ru": "Как ты?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l1-w8",
+      "sr": "Kako ste?",
+      "ru": "Как вы?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l1-w9",
+      "sr": "Dobro",
+      "ru": "Хорошо",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l2-w3",
+      "sr": "Kako se zoveš?",
+      "ru": "Как тебя зовут?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l2-w4",
+      "sr": "Kako se zovete?",
+      "ru": "Как вас зовут?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l2-w9",
+      "sr": "I meni",
+      "ru": "Мне тоже",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l3-w5",
+      "sr": "Ono",
+      "ru": "Оно",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l3-w9",
+      "sr": "One",
+      "ru": "Они (женская группа)",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w4",
+      "sr": "Smo",
+      "ru": "(мы) есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w5",
+      "sr": "Ste",
+      "ru": "(вы) есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w6",
+      "sr": "Su",
+      "ru": "(они) есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w8",
+      "sr": "Nisi",
+      "ru": "(ты) не есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w9",
+      "sr": "Nije",
+      "ru": "(он/она) не есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l4-w10",
+      "sr": "Nisu",
+      "ru": "(они) не есть",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l5-w3",
+      "sr": "Da li",
+      "ru": "Ли (начало общего вопроса)",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m2l5-w9",
+      "sr": "Jeste",
+      "ru": "Является / верно",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w2",
+      "sr": "Dvanaest",
+      "ru": "Двенадцать",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w3",
+      "sr": "Trinaest",
+      "ru": "Тринадцать",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w4",
+      "sr": "Petnaest",
+      "ru": "Пятнадцать",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w5",
+      "sr": "Sedamnaest",
+      "ru": "Семнадцать",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w8",
+      "sr": "Četrdeset",
+      "ru": "Сорок",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l2-w9",
+      "sr": "Pedeset",
+      "ru": "Пятьдесят",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w1",
+      "sr": "Januar",
+      "ru": "Январь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w2",
+      "sr": "Februar",
+      "ru": "Февраль",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w3",
+      "sr": "Mart",
+      "ru": "Март",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w4",
+      "sr": "April",
+      "ru": "Апрель",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w5",
+      "sr": "Maj",
+      "ru": "Май",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w6",
+      "sr": "Jun",
+      "ru": "Июнь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w7",
+      "sr": "Jul",
+      "ru": "Июль",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w8",
+      "sr": "Avgust",
+      "ru": "Август",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w9",
+      "sr": "Septembar",
+      "ru": "Сентябрь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l4-w10",
+      "sr": "Oktobar",
+      "ru": "Октябрь",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l5-w1",
+      "sr": "Koliko je sati?",
+      "ru": "Который час?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l5-w2",
+      "sr": "U koliko sati?",
+      "ru": "Во сколько?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l5-w8",
+      "sr": "Pola",
+      "ru": "Половина",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l5-w9",
+      "sr": "Sat",
+      "ru": "Час",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m3l5-w10",
+      "sr": "Minut",
+      "ru": "Минута",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l1-w7",
+      "sr": "Dajte mi",
+      "ru": "Дайте мне",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l1-w8",
+      "sr": "Koliko košta?",
+      "ru": "Сколько стоит?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l2-w4",
+      "sr": "Da, hvala.",
+      "ru": "Да, спасибо",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l2-w5",
+      "sr": "Ne, hvala.",
+      "ru": "Нет, спасибо",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l2-w7",
+      "sr": "Samo",
+      "ru": "Только",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l2-w9",
+      "sr": "Ne treba mi",
+      "ru": "Мне не нужно",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l3-w2",
+      "sr": "Gde je…?",
+      "ru": "Где находится…?",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l4-w2",
+      "sr": "Kasnim",
+      "ru": "Опаздываю",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
+    },
+    {
+      "id": "v3-m4l4-w3",
+      "sr": "Stižem",
+      "ru": "Подхожу / скоро буду",
+      "usage": "",
+      "usageRu": "",
+      "level": "A0"
     }
   ],
   "alphabet": [
