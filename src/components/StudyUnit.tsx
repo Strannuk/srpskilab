@@ -2,6 +2,7 @@ import {useState} from 'react';
 import {AudioButton} from './AudioButton';
 import {chooseScript} from '../lib/catalog';
 import type{StudyUnit}from '../lib/study';
+import {SpeakingRecorder} from './StudyEnrichment';
 import './StudyUnit.css';
 
 type Script='latin'|'cyrillic';
@@ -42,6 +43,6 @@ export function StudyDrills({unit,script}:{unit:StudyUnit,script:Script}){
    <button type="button" className="button button-secondary" disabled={!attempts[g.id]?.trim()} onClick={()=>setRevealed(x=>({...x,[g.id]:true}))}>Сравнить с образцом</button>
    {revealed[g.id]&&<div className="study-reveal"><b>Один из образцов: {chooseScript(g.answer,script)}</b><p>{g.explanation}</p>{g.kind==='choice'&&<p>{attempts[g.id]===g.answer?'Выбран образец.':'Ты выбрал другой вариант — проверь правило ещё раз.'}</p>}</div>}</div>)}
   <div className="study-production"><h3>Самостоятельное письмо и разговор</h3><p>{unit.writingPrompt}</p><p><strong>Проговори вслух:</strong> {unit.oralPrompt}</p><h4>Критерии самопроверки</h4><ul>{unit.rubric.map((r,i)=><li key={i}>{r}</li>)}</ul><p className="muted">Свободное письмо и произношение требуют самостоятельной или преподавательской проверки; они не считаются автоматически оценёнными.</p></div>
-  <div className="study-homework"><h3>Домашнее задание</h3><ol>{unit.homework.map((h,i)=><li key={i}>{h}</li>)}</ol></div>
+  <div className="study-homework"><h3>Сравни своё произношение с записью</h3><p>Прочитай новую реплику вслух. Запиши себя по желанию, прослушай и сопоставь с образцом. Голос не оценивается автоматически.</p><SpeakingRecorder keyLabel={unit.id+'-base'}/></div><div className="study-homework"><h3>Домашнее задание</h3><ol>{unit.homework.map((h,i)=><li key={i}>{h}</li>)}</ol></div>
  </section>;
 }

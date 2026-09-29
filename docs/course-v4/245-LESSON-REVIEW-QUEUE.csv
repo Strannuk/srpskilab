@@ -1,0 +1,246 @@
+lesson_id,level,module,topic,practice_count,writing,speaking,audio_passages,editorial_status
+m5l1,A1,5,"Мужской, женский и средний род",7,1,1,3,needs_serbian_expert_review
+m5l2,A1,5,"Множественное число существительных",7,1,1,3,needs_serbian_expert_review
+m5l3,A1,5,"Настоящее время: raditi",7,1,1,3,needs_serbian_expert_review
+m5l4,A1,5,"Настоящее время: govoriti и živeti",7,1,1,3,needs_serbian_expert_review
+m5l5,A1,5,"Как задавать вопросы",7,1,1,3,needs_serbian_expert_review
+m5l6,A1,5,"Отрицание и порядок слов",7,1,1,3,needs_serbian_expert_review
+m5l7,A1,5,"Собираем бытовые предложения",7,1,1,3,needs_serbian_expert_review
+m6l1,A1,6,"Члены семьи",7,1,1,3,needs_serbian_expert_review
+m6l2,A1,6,"Мой, твой, его, её",7,1,1,3,needs_serbian_expert_review
+m6l3,A1,6,"Прилагательные и род",7,1,1,3,needs_serbian_expert_review
+m6l4,A1,6,"Возраст и числа с годами",7,1,1,3,needs_serbian_expert_review
+m6l5,A1,6,"Профессии и работа",7,1,1,3,needs_serbian_expert_review
+m6l6,A1,6,"Кто чей и у кого что",7,1,1,3,needs_serbian_expert_review
+m6l7,A1,6,"Расскажи о своей семье",7,1,1,3,needs_serbian_expert_review
+m7l1,A1,7,"Комнаты и предметы дома",7,1,1,3,needs_serbian_expert_review
+m7l2,A1,7,"Где что находится",7,1,1,3,needs_serbian_expert_review
+m7l3,A1,7,"Описываем квартиру",7,1,1,3,needs_serbian_expert_review
+m7l4,A1,7,"Мой обычный день",7,1,1,3,needs_serbian_expert_review
+m7l5,A1,7,"Что делаем утром и вечером",7,1,1,3,needs_serbian_expert_review
+m7l6,A1,7,"Аренда и простые вопросы",7,1,1,3,needs_serbian_expert_review
+m7l7,A1,7,"Опиши свой день",7,1,1,3,needs_serbian_expert_review
+m8l1,A1,8,"Названия основных продуктов",7,1,1,3,needs_serbian_expert_review
+m8l2,A1,8,"Вопрос о цене и количестве",7,1,1,3,needs_serbian_expert_review
+m8l3,A1,8,"Как попросить продукт",7,1,1,3,needs_serbian_expert_review
+m8l4,A1,8,"Диалог на рынке",7,1,1,3,needs_serbian_expert_review
+m8l5,A1,8,"Заказ в кафе",7,1,1,3,needs_serbian_expert_review
+m8l6,A1,8,"Чек, сдача и оплата",7,1,1,3,needs_serbian_expert_review
+m8l7,A1,8,"Практика у кассы",7,1,1,3,needs_serbian_expert_review
+m9l1,A1,9,"Ориентируемся в городе",7,1,1,3,needs_serbian_expert_review
+m9l2,A1,9,"Автобус и остановка",7,1,1,3,needs_serbian_expert_review
+m9l3,A1,9,"Как спрашивать маршрут",7,1,1,3,needs_serbian_expert_review
+m9l4,A1,9,"Погода и температура",7,1,1,3,needs_serbian_expert_review
+m9l5,A1,9,"Одежда по погоде",7,1,1,3,needs_serbian_expert_review
+m9l6,A1,9,"Место и направление",7,1,1,3,needs_serbian_expert_review
+m9l7,A1,9,"Прогулка по Нови-Саду",7,1,1,3,needs_serbian_expert_review
+m10l1,A1,10,"Части тела и самочувствие",7,1,1,3,needs_serbian_expert_review
+m10l2,A1,10,"Что сказать врачу",7,1,1,3,needs_serbian_expert_review
+m10l3,A1,10,"Запись на приём",7,1,1,3,needs_serbian_expert_review
+m10l4,A1,10,"Звонок и уточнение",7,1,1,3,needs_serbian_expert_review
+m10l5,A1,10,"Падежи: зачем они нужны",7,1,1,3,needs_serbian_expert_review
+m10l6,A1,10,"Винительный падеж на практике",7,1,1,3,needs_serbian_expert_review
+m10l7,A1,10,"Первое письменное обращение",7,1,1,3,needs_serbian_expert_review
+m11l1,A2,11,"Именительный: кто и что",7,1,1,3,needs_serbian_expert_review
+m11l2,A2,11,"Винительный: что покупаю",7,1,1,3,needs_serbian_expert_review
+m11l3,A2,11,"Винительный одушевлённых существительных",7,1,1,3,needs_serbian_expert_review
+m11l4,A2,11,"Предлоги u и na: куда",7,1,1,3,needs_serbian_expert_review
+m11l5,A2,11,"Родительный: отсутствие",7,1,1,3,needs_serbian_expert_review
+m11l6,A2,11,"Родительный после количества",7,1,1,3,needs_serbian_expert_review
+m11l7,A2,11,"Предлоги od, iz, do, bez",7,1,1,3,needs_serbian_expert_review
+m11l8,A2,11,"Притяжательность и происхождение",7,1,1,3,needs_serbian_expert_review
+m11l9,A2,11,"Закрепление трёх падежей",7,1,1,3,needs_serbian_expert_review
+m12l1,A2,12,"Дательный: кому",7,1,1,3,needs_serbian_expert_review
+m12l2,A2,12,"Дательный после предлогов",7,1,1,3,needs_serbian_expert_review
+m12l3,A2,12,"Местный: где",7,1,1,3,needs_serbian_expert_review
+m12l4,A2,12,"Разница «в школу» и «в школе»",7,1,1,3,needs_serbian_expert_review
+m12l5,A2,12,"Творительный: с кем",7,1,1,3,needs_serbian_expert_review
+m12l6,A2,12,"Творительный: чем",7,1,1,3,needs_serbian_expert_review
+m12l7,A2,12,"Звательный падеж",7,1,1,3,needs_serbian_expert_review
+m12l8,A2,12,"Местоимения в падежах",7,1,1,3,needs_serbian_expert_review
+m12l9,A2,12,"Все семь падежей в диалоге",7,1,1,3,needs_serbian_expert_review
+m13l1,A2,13,"Прошедшее время: основа",7,1,1,3,needs_serbian_expert_review
+m13l2,A2,13,"Вчера и на прошлой неделе",7,1,1,3,needs_serbian_expert_review
+m13l3,A2,13,"Будущее время: ću, ćeš, će",7,1,1,3,needs_serbian_expert_review
+m13l4,A2,13,"Mogu: возможность",7,1,1,3,needs_serbian_expert_review
+m13l5,A2,13,"Moram: обязанность",7,1,1,3,needs_serbian_expert_review
+m13l6,A2,13,"Treba: необходимость",7,1,1,3,needs_serbian_expert_review
+m13l7,A2,13,"Želim, hoću, voleo bih",7,1,1,3,needs_serbian_expert_review
+m13l8,A2,13,"Возвратные глаголы и se",7,1,1,3,needs_serbian_expert_review
+m13l9,A2,13,"Планы на неделю",7,1,1,3,needs_serbian_expert_review
+m14l1,A2,14,"Повелительное наклонение",7,1,1,3,needs_serbian_expert_review
+m14l2,A2,14,"Просим о помощи",7,1,1,3,needs_serbian_expert_review
+m14l3,A2,14,"Сравнение прилагательных",7,1,1,3,needs_serbian_expert_review
+m14l4,A2,14,"Предпочтения и выбор",7,1,1,3,needs_serbian_expert_review
+m14l5,A2,14,"Глаголы движения",7,1,1,3,needs_serbian_expert_review
+m14l6,A2,14,"Идти, ехать и приезжать",7,1,1,3,needs_serbian_expert_review
+m14l7,A2,14,"Как объяснить маршрут",7,1,1,3,needs_serbian_expert_review
+m14l8,A2,14,"Просим повторить или уточнить",7,1,1,3,needs_serbian_expert_review
+m14l9,A2,14,"Ролевая игра: маршрут по городу",7,1,1,3,needs_serbian_expert_review
+m15l1,A2,15,"Общение с учителем",7,1,1,3,needs_serbian_expert_review
+m15l2,A2,15,"Школьные экскурсии и согласия",7,1,1,3,needs_serbian_expert_review
+m15l3,A2,15,"Запись ребёнка к педиатру",7,1,1,3,needs_serbian_expert_review
+m15l4,A2,15,"Как описать симптомы",7,1,1,3,needs_serbian_expert_review
+m15l5,A2,15,"Заполнение медицинского листа",7,1,1,3,needs_serbian_expert_review
+m15l6,A2,15,"Разговор с хозяином квартиры",7,1,1,3,needs_serbian_expert_review
+m15l7,A2,15,"Коммунальные счета",7,1,1,3,needs_serbian_expert_review
+m15l8,A2,15,"Интернет и мобильная связь",7,1,1,3,needs_serbian_expert_review
+m15l9,A2,15,"Ролевая игра: семейный вопрос",7,1,1,3,needs_serbian_expert_review
+m16l1,A2,16,"Что сказать в банке",7,1,1,3,needs_serbian_expert_review
+m16l2,A2,16,"Наличные и банковская карта",7,1,1,3,needs_serbian_expert_review
+m16l3,A2,16,"На почте",7,1,1,3,needs_serbian_expert_review
+m16l4,A2,16,"Государственное учреждение",7,1,1,3,needs_serbian_expert_review
+m16l5,A2,16,"Заявление и его статус",7,1,1,3,needs_serbian_expert_review
+m16l6,A2,16,"Временное пребывание",7,1,1,3,needs_serbian_expert_review
+m16l7,A2,16,"Сроки и ожидание ответа",7,1,1,3,needs_serbian_expert_review
+m16l8,A2,16,"Официальное письмо",7,1,1,3,needs_serbian_expert_review
+m16l9,A2,16,"Ролевая игра: подача документов",7,1,1,3,needs_serbian_expert_review
+m17l1,A2,17,"Начать телефонный разговор",7,1,1,3,needs_serbian_expert_review
+m17l2,A2,17,"Попросить говорить медленнее",7,1,1,3,needs_serbian_expert_review
+m17l3,A2,17,"Уточнить имя и время",7,1,1,3,needs_serbian_expert_review
+m17l4,A2,17,"Перенести встречу",7,1,1,3,needs_serbian_expert_review
+m17l5,A2,17,"Неисправность в квартире",7,1,1,3,needs_serbian_expert_review
+m17l6,A2,17,"Вежливо пожаловаться",7,1,1,3,needs_serbian_expert_review
+m17l7,A2,17,"Переписка в Viber",7,1,1,3,needs_serbian_expert_review
+m17l8,A2,17,"Уточнить последующие действия",7,1,1,3,needs_serbian_expert_review
+m17l9,A2,17,"Итог A2: неожиданный вопрос",7,1,1,3,needs_serbian_expert_review
+m18l1,B1,18,"Что такое глагольный вид",7,1,1,3,needs_serbian_expert_review
+m18l2,B1,18,"Parovi: pisati / napisati",7,1,1,3,needs_serbian_expert_review
+m18l3,B1,18,"Parovi: kupovati / kupiti",7,1,1,3,needs_serbian_expert_review
+m18l4,B1,18,"Parovi: raditi / uraditi",7,1,1,3,needs_serbian_expert_review
+m18l5,B1,18,"Parovi: dolaziti / doći",7,1,1,3,needs_serbian_expert_review
+m18l6,B1,18,"Вид в отрицаниях",7,1,1,3,needs_serbian_expert_review
+m18l7,B1,18,"Вид в просьбах и планах",7,1,1,3,needs_serbian_expert_review
+m18l8,B1,18,"Вид с будущим временем",7,1,1,3,needs_serbian_expert_review
+m18l9,B1,18,"Вид в рассказе о дне",7,1,1,3,needs_serbian_expert_review
+m18l10,B1,18,"Практика видовых пар",7,1,1,3,needs_serbian_expert_review
+m19l1,B1,19,"Причина: zato što, jer",7,1,1,3,needs_serbian_expert_review
+m19l2,B1,19,"Следствие: zato, zbog toga",7,1,1,3,needs_serbian_expert_review
+m19l3,B1,19,"Условие: ako",7,1,1,3,needs_serbian_expert_review
+m19l4,B1,19,"Условное наклонение: bih, bi, bismo",7,1,1,3,needs_serbian_expert_review
+m19l5,B1,19,"Придаточные с da",7,1,1,3,needs_serbian_expert_review
+m19l6,B1,19,"Относительные предложения: koji",7,1,1,3,needs_serbian_expert_review
+m19l7,B1,19,"Краткие формы местоимений: me, te, ga",7,1,1,3,needs_serbian_expert_review
+m19l8,B1,19,"Порядок клитик",7,1,1,3,needs_serbian_expert_review
+m19l9,B1,19,"Прямая и косвенная речь",7,1,1,3,needs_serbian_expert_review
+m19l10,B1,19,"Собираем связный рассказ",7,1,1,3,needs_serbian_expert_review
+m20l1,B1,20,"Da + настоящее время",7,1,1,3,needs_serbian_expert_review
+m20l2,B1,20,"Разговорные частицы: pa, baš, eto",7,1,1,3,needs_serbian_expert_review
+m20l3,B1,20,"«У меня есть»: imam",7,1,1,3,needs_serbian_expert_review
+m20l4,B1,20,"«Мне нравится»: sviđa mi se",7,1,1,3,needs_serbian_expert_review
+m20l5,B1,20,"Ложные друзья переводчика",7,1,1,3,needs_serbian_expert_review
+m20l6,B1,20,"Sada, trenutno, upravo",7,1,1,3,needs_serbian_expert_review
+m20l7,B1,20,"Оттенки молбы: molim, izvolite, izvinite",7,1,1,3,needs_serbian_expert_review
+m20l8,B1,20,"Разговорные ответы: važi, naravno, nema problema",7,1,1,3,needs_serbian_expert_review
+m20l9,B1,20,"Нейтрально и неформально",7,1,1,3,needs_serbian_expert_review
+m20l10,B1,20,"Живой диалог в Нови-Саде",7,1,1,3,needs_serbian_expert_review
+m21l1,B1,21,"Вводим историю: pre nekoliko dana",7,1,1,3,needs_serbian_expert_review
+m21l2,B1,21,"Последовательность: prvo, zatim, na kraju",7,1,1,3,needs_serbian_expert_review
+m21l3,B1,21,"Фон и событие",7,1,1,3,needs_serbian_expert_review
+m21l4,B1,21,"Воспоминания и привычки",7,1,1,3,needs_serbian_expert_review
+m21l5,B1,21,"Планы и намерения",7,1,1,3,needs_serbian_expert_review
+m21l6,B1,21,"Обещания и договорённости",7,1,1,3,needs_serbian_expert_review
+m21l7,B1,21,"Неожиданные изменения",7,1,1,3,needs_serbian_expert_review
+m21l8,B1,21,"Объясняем решение",7,1,1,3,needs_serbian_expert_review
+m21l9,B1,21,"Пересказываем короткую историю",7,1,1,3,needs_serbian_expert_review
+m21l10,B1,21,"История на 1–2 минуты",7,1,1,3,needs_serbian_expert_review
+m22l1,B1,22,"Расскажи о профессии",7,1,1,3,needs_serbian_expert_review
+m22l2,B1,22,"Профессиональные навыки",7,1,1,3,needs_serbian_expert_review
+m22l3,B1,22,"Обязанности и график",7,1,1,3,needs_serbian_expert_review
+m22l4,B1,22,"Зарплата и договор",7,1,1,3,needs_serbian_expert_review
+m22l5,B1,22,"Собеседование: мотивация",7,1,1,3,needs_serbian_expert_review
+m22l6,B1,22,"Собеседование: сложный вопрос",7,1,1,3,needs_serbian_expert_review
+m22l7,B1,22,"Рабочая переписка",7,1,1,3,needs_serbian_expert_review
+m22l8,B1,22,"Планирование задач",7,1,1,3,needs_serbian_expert_review
+m22l9,B1,22,"Обратная связь и уточнение",7,1,1,3,needs_serbian_expert_review
+m22l10,B1,22,"Имитируем собеседование",7,1,1,3,needs_serbian_expert_review
+m23l1,B1,23,"Формулируем проблему нейтрально",7,1,1,3,needs_serbian_expert_review
+m23l2,B1,23,"Хронология событий",7,1,1,3,needs_serbian_expert_review
+m23l3,B1,23,"Сроки и перенос",7,1,1,3,needs_serbian_expert_review
+m23l4,B1,23,"Запрос о статусе",7,1,1,3,needs_serbian_expert_review
+m23l5,B1,23,"Необходимые документы",7,1,1,3,needs_serbian_expert_review
+m23l6,B1,23,"Вежливое несогласие",7,1,1,3,needs_serbian_expert_review
+m23l7,B1,23,"Просьба о письменном ответе",7,1,1,3,needs_serbian_expert_review
+m23l8,B1,23,"Претензия по услуге",7,1,1,3,needs_serbian_expert_review
+m23l9,B1,23,"Переговоры о решении",7,1,1,3,needs_serbian_expert_review
+m23l10,B1,23,"Ролевая игра: сложный запрос",7,1,1,3,needs_serbian_expert_review
+m24l1,B1,24,"Структура короткой новости",7,1,1,3,needs_serbian_expert_review
+m24l2,B1,24,"Понимание заголовков",7,1,1,3,needs_serbian_expert_review
+m24l3,B1,24,"Ссылки на источник",7,1,1,3,needs_serbian_expert_review
+m24l4,B1,24,"Высказываем мнение",7,1,1,3,needs_serbian_expert_review
+m24l5,B1,24,"Согласие и несогласие",7,1,1,3,needs_serbian_expert_review
+m24l6,B1,24,"Осторожные формулировки",7,1,1,3,needs_serbian_expert_review
+m24l7,B1,24,"Сообщения в Viber",7,1,1,3,needs_serbian_expert_review
+m24l8,B1,24,"Электронная почта",7,1,1,3,needs_serbian_expert_review
+m24l9,B1,24,"Письменный пересказ",7,1,1,3,needs_serbian_expert_review
+m24l10,B1,24,"Итог B1: обсуждаем событие",7,1,1,3,needs_serbian_expert_review
+m25l1,B2,25,"Вид и результат с тонкими оттенками",7,1,1,3,needs_serbian_expert_review
+m25l2,B2,25,"Условные и нереальные ситуации",7,1,1,3,needs_serbian_expert_review
+m25l3,B2,25,"Уступительные конструкции",7,1,1,3,needs_serbian_expert_review
+m25l4,B2,25,"Причинно-следственные связки",7,1,1,3,needs_serbian_expert_review
+m25l5,B2,25,"Пассив и безличные конструкции",7,1,1,3,needs_serbian_expert_review
+m25l6,B2,25,"Отглагольные существительные",7,1,1,3,needs_serbian_expert_review
+m25l7,B2,25,"Порядок слов и акцент",7,1,1,3,needs_serbian_expert_review
+m25l8,B2,25,"Относительные местоимения",7,1,1,3,needs_serbian_expert_review
+m25l9,B2,25,"Причастия и прилагательные",7,1,1,3,needs_serbian_expert_review
+m25l10,B2,25,"Редактор текста",7,1,1,3,needs_serbian_expert_review
+m26l1,B2,26,"Разговорное i formalno",7,1,1,3,needs_serbian_expert_review
+m26l2,B2,26,"Частицы и интонация",7,1,1,3,needs_serbian_expert_review
+m26l3,B2,26,"Фразеологизмы повседневной речи",7,1,1,3,needs_serbian_expert_review
+m26l4,B2,26,"Устойчивые сочетания со словом red",7,1,1,3,needs_serbian_expert_review
+m26l5,B2,26,"Вежливость и социальная дистанция",7,1,1,3,needs_serbian_expert_review
+m26l6,B2,26,"Согласие с оговоркой",7,1,1,3,needs_serbian_expert_review
+m26l7,B2,26,"Просьба без давления",7,1,1,3,needs_serbian_expert_review
+m26l8,B2,26,"Передача удивления и сомнения",7,1,1,3,needs_serbian_expert_review
+m26l9,B2,26,"Региональные особенности",7,1,1,3,needs_serbian_expert_review
+m26l10,B2,26,"Стилизация диалога",7,1,1,3,needs_serbian_expert_review
+m27l1,B2,27,"Тезис и обоснование",7,1,1,3,needs_serbian_expert_review
+m27l2,B2,27,"Факт, мнение и допущение",7,1,1,3,needs_serbian_expert_review
+m27l3,B2,27,"Пример и контрпример",7,1,1,3,needs_serbian_expert_review
+m27l4,B2,27,"Уточнение чужой позиции",7,1,1,3,needs_serbian_expert_review
+m27l5,B2,27,"Корректное возражение",7,1,1,3,needs_serbian_expert_review
+m27l6,B2,27,"Сравнение альтернатив",7,1,1,3,needs_serbian_expert_review
+m27l7,B2,27,"Причины и последствия",7,1,1,3,needs_serbian_expert_review
+m27l8,B2,27,"Обобщение и вывод",7,1,1,3,needs_serbian_expert_review
+m27l9,B2,27,"Дискуссия о быте",7,1,1,3,needs_serbian_expert_review
+m27l10,B2,27,"Дискуссия о работе",7,1,1,3,needs_serbian_expert_review
+m28l1,B2,28,"Профессиональное представление",7,1,1,3,needs_serbian_expert_review
+m28l2,B2,28,"Цели и критерии успеха",7,1,1,3,needs_serbian_expert_review
+m28l3,B2,28,"Обсуждение сроков",7,1,1,3,needs_serbian_expert_review
+m28l4,B2,28,"Управление рисками",7,1,1,3,needs_serbian_expert_review
+m28l5,B2,28,"Встречи и повестка",7,1,1,3,needs_serbian_expert_review
+m28l6,B2,28,"Согласование требований",7,1,1,3,needs_serbian_expert_review
+m28l7,B2,28,"Презентация идеи",7,1,1,3,needs_serbian_expert_review
+m28l8,B2,28,"Переговоры по контракту",7,1,1,3,needs_serbian_expert_review
+m28l9,B2,28,"Конструктивная обратная связь",7,1,1,3,needs_serbian_expert_review
+m28l10,B2,28,"Мини-презентация",7,1,1,3,needs_serbian_expert_review
+m29l1,B2,29,"Структура официального письма",7,1,1,3,needs_serbian_expert_review
+m29l2,B2,29,"Просьба о предоставлении информации",7,1,1,3,needs_serbian_expert_review
+m29l3,B2,29,"Фиксация фактов и дат",7,1,1,3,needs_serbian_expert_review
+m29l4,B2,29,"Письменное уточнение",7,1,1,3,needs_serbian_expert_review
+m29l5,B2,29,"Приложения и подтверждения",7,1,1,3,needs_serbian_expert_review
+m29l6,B2,29,"Повторное обращение",7,1,1,3,needs_serbian_expert_review
+m29l7,B2,29,"Вежливое оспаривание",7,1,1,3,needs_serbian_expert_review
+m29l8,B2,29,"Запрос о сроке ответа",7,1,1,3,needs_serbian_expert_review
+m29l9,B2,29,"Письмо и устное обращение",7,1,1,3,needs_serbian_expert_review
+m29l10,B2,29,"Редактирование официального письма",7,1,1,3,needs_serbian_expert_review
+m30l1,B2,30,"Слушаем без дословного перевода",7,1,1,3,needs_serbian_expert_review
+m30l2,B2,30,"Сокращения в разговоре",7,1,1,3,needs_serbian_expert_review
+m30l3,B2,30,"Интонация и смысл",7,1,1,3,needs_serbian_expert_review
+m30l4,B2,30,"Как уточнять услышанное",7,1,1,3,needs_serbian_expert_review
+m30l5,B2,30,"Сложные перечисления",7,1,1,3,needs_serbian_expert_review
+m30l6,B2,30,"Ирония и контекст",7,1,1,3,needs_serbian_expert_review
+m30l7,B2,30,"Пересказ новости",7,1,1,3,needs_serbian_expert_review
+m30l8,B2,30,"Пересказ интервью",7,1,1,3,needs_serbian_expert_review
+m30l9,B2,30,"Обобщение услышанного",7,1,1,3,needs_serbian_expert_review
+m30l10,B2,30,"Практика естественного темпа",7,1,1,3,needs_serbian_expert_review
+m31l1,B2,31,"Сценарий: день в Нови-Саде",7,1,1,3,needs_serbian_expert_review
+m31l2,B2,31,"Сценарий: консультация у врача",7,1,1,3,needs_serbian_expert_review
+m31l3,B2,31,"Сценарий: школа ребёнка",7,1,1,3,needs_serbian_expert_review
+m31l4,B2,31,"Сценарий: аренда и коммунальные услуги",7,1,1,3,needs_serbian_expert_review
+m31l5,B2,31,"Сценарий: работа и собеседование",7,1,1,3,needs_serbian_expert_review
+m31l6,B2,31,"Сценарий: официальное обращение",7,1,1,3,needs_serbian_expert_review
+m31l7,B2,31,"Сценарий: телефон без переводчика",7,1,1,3,needs_serbian_expert_review
+m31l8,B2,31,"Сценарий: статья и дискуссия",7,1,1,3,needs_serbian_expert_review
+m31l9,B2,31,"Сценарий: презентация проекта",7,1,1,3,needs_serbian_expert_review
+m31l10,B2,31,"Подготовка к комплексной проверке B2",7,1,1,3,needs_serbian_expert_review

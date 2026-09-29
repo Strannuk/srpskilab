@@ -1,7 +1,7 @@
 {
   "name": "srpskilab",
   "private": true,
-  "version": "3.0.0-study-edition",
+  "version": "3.1.0-practice-draft",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,7 +25,9 @@
     "content:v3:verify": "node scripts/verify-v3-ready.cjs",
     "audio:v3:study": "python scripts/generate-study-audio-v3.py",
     "audio:coverage": "node scripts/verify-audio-coverage.cjs",
-    "smoke": "node scripts/smoke-without-vite.cjs && node scripts/ssr-render-smoke.cjs"
+    "smoke": "node scripts/smoke-without-vite.cjs && node scripts/ssr-render-smoke.cjs && node scripts/ssr-render-v4.cjs",
+    "content:v4:build": "node scripts/enrich-course-v4.cjs",
+    "content:v4:verify": "node scripts/verify-v4-enrichment.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.0",
