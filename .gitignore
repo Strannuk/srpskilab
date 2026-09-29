@@ -6,5 +6,12 @@ dist/
 coverage/
 .playwright/
 test-results/
+.npm-cache/
 *.log
 .DS_Store
+tsconfig.tsbuildinfo
+SECURITY_AUDIT_REPORT.md
+SrpskiLab_Security_Audit_TZ.md
+supabase/private/
+supabase/**/answer-bank*.sql
+legacy/

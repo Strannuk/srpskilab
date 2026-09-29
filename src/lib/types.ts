@@ -1,6 +1,6 @@
 export type Level='A0'|'A1'|'A2'|'B1'|'B2';
 export type Word={id:string,sr:string,ru:string,usage:string,usageRu:string};
-export type Question={id:string,kind:'choice'|'input',prompt:string,answer:string,options:string[]};
+export type Question={id:string,kind:'choice'|'input',prompt:string,options:string[]};
 export type Lesson={id:string,legacyId:string,order:number,moduleId:number,level:Level,title:string,note:string,version:number,objectives:string[],vocab:Word[],examples:{sr:string,ru:string}[],dialogue:{by:string,sr:string,ru:string}[],questions:Question[],addon:[string,string,[string,string][]]|null};
 export type Module={id:number,level:Level,name:string,desc:string,lessonCount:number};
 export type Profile={user_id:string,display_name:string,script:'latin'|'cyrillic',theme:'light'|'dark'|'system',daily_goal:number,timezone:string,updated_at:string};

@@ -67,7 +67,7 @@ create table if not exists public.word_review_events (
 );
 create table if not exists public.import_jobs (
  id uuid primary key default gen_random_uuid(),user_id uuid not null references auth.users(id) on delete cascade,
- source_hash text not null,summary_json jsonb not null default '{}'::jsonb,created_at timestamptz not null default now(),
+ source_hash text not null,summary_json jsonb not null default '{}'::jsonb,snapshot_json jsonb not null default '{}'::jsonb,created_at timestamptz not null default now(),
  unique(user_id,source_hash)
 );
 create table if not exists public.legacy_imported_progress (
