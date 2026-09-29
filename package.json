@@ -23,7 +23,9 @@
     "content:v3:export": "node scripts/export-pilot-manuscript.cjs",
     "content:v3:authorA0": "python scripts/write-a0-pilots.py && python scripts/write-a0-2to4.py",
     "content:v3:verify": "node scripts/verify-v3-ready.cjs",
-    "audio:v3:study": "python scripts/generate-study-audio-v3.py"
+    "audio:v3:study": "python scripts/generate-study-audio-v3.py",
+    "audio:coverage": "node scripts/verify-audio-coverage.cjs",
+    "smoke": "node scripts/smoke-without-vite.cjs && node scripts/ssr-render-smoke.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.0",
