@@ -1,0 +1,15 @@
+import{useMemo,useState}from 'react';
+import{Search,Languages,Plus,Check,Volume2}from 'lucide-react';
+import{useProgress}from '../lib/session';
+import{chooseScript,dictionary,levels}from '../lib/catalog';
+import{AudioButton}from '../components/AudioButton';
+import{PageHead,Empty}from '../components/Layout';
+export default function Dictionary(){const[query,setQuery]=useState(''),[level,setLevel]=useState('all'),[filter,setFilter]=useState('all'),[limit,setLimit]=useState(50);
+ const{profile,words,markWords}=useProgress(),script=profile?.script||'latin';
+ const filtered=useMemo(()=>dictionary.filter(w=>{const check=w.sr.toLocaleLowerCase('sr').includes(query.toLocaleLowerCase('sr'))||w.ru.toLowerCase().includes(query.toLowerCase());
+ const inLvl=level==='all'||w.level===level;
+ const inMode=filter==='all'||(filter==='seen'?Boolean(words[w.id]):filter==='due'?Boolean(words[w.id]&&new Date(words[w.id].due_at)<=new Date()):!words[w.id]);return check&&inLvl&&inMode}),[query,level,filter,words]);
+ return <><PageHead eyebrow="ТВОЙ СЛОВАРЬ" title="Слова, которые становятся своими" description="Ищи перевод, слушай сербское произношение и добавляй слова к интервальному повторению." icon={Languages}/><div className="panel dict-filters"><div className="search-box large"><Search size={20}/><input value={query} onChange={e=>{setQuery(e.target.value);setLimit(50)}} placeholder="Найти слово на сербском или русском…"/></div><div className="row gap"><label className="visually-hidden" htmlFor="dict-level">Уровень</label><select id="dict-level" value={level} onChange={e=>setLevel(e.target.value)}><option value="all">Все уровни</option>{levels.map(l=><option value={l} key={l}>{l}</option>)}</select><div className="segmented"><button className={filter==='all'?'active':''} onClick={()=>setFilter('all')}>Все</button><button className={filter==='seen'?'active':''} onClick={()=>setFilter('seen')}>Изучаю</button><button className={filter==='due'?'active':''} onClick={()=>setFilter('due')}>Повторить</button><button className={filter==='new'?'active':''} onClick={()=>setFilter('new')}>Новые</button></div></div></div>
+ <div className="dictionary-meta">Найдено: {filtered.length} · В твоём словаре: {Object.keys(words).length}</div><div className="panel dict-list">{filtered.slice(0,limit).map(w=><div className="dict-row" key={w.id}><div className="dict-word"><b>{chooseScript(w.sr,script)}</b><small>{w.usage?chooseScript(w.usage,script):''} {w.usage&&<AudioButton text={w.usage} small/>}</small></div><span className="dict-translation">{w.ru}</span><AudioButton text={w.sr}/><button className={`audio-btn add ${words[w.id]?'added':''}`} title={words[w.id]?'В карточках':'Добавить в карточки'} disabled={Boolean(words[w.id])} onClick={()=>void markWords([w.id])}>{words[w.id]?<Check size={17}/>:<Plus size={17}/>}</button></div>)}{!filtered.length&&<Empty icon={Volume2} title="Слова не найдены" description="Проверь написание или попробуй другой фильтр."/>}</div>
+ {filtered.length>limit&&<button className="button button-secondary centered-button" onClick={()=>setLimit(n=>n+50)}>Показать ещё слова</button>}</>;
+}

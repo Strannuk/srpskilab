@@ -1,0 +1,11 @@
+export type Level='A0'|'A1'|'A2'|'B1'|'B2';
+export type Word={id:string,sr:string,ru:string,usage:string,usageRu:string};
+export type Question={id:string,kind:'choice'|'input',prompt:string,answer:string,options:string[]};
+export type Lesson={id:string,legacyId:string,order:number,moduleId:number,level:Level,title:string,note:string,version:number,objectives:string[],vocab:Word[],examples:{sr:string,ru:string}[],dialogue:{by:string,sr:string,ru:string}[],questions:Question[],addon:[string,string,[string,string][]]|null};
+export type Module={id:number,level:Level,name:string,desc:string,lessonCount:number};
+export type Profile={user_id:string,display_name:string,script:'latin'|'cyrillic',theme:'light'|'dark'|'system',daily_goal:number,timezone:string,updated_at:string};
+export type LessonProgress={lesson_id:string,status:'in_progress'|'completed',best_score:number,last_score:number|null,first_score:number|null,attempts_count:number,last_step:string,completed_at:string|null,updated_at:string};
+export type ExamAttempt={level:Level,score:number,passed:boolean,submitted_at:string};
+export type WordProgress={word_id:string,stage:number,due_at:string,correct_count:number,incorrect_count:number,last_reviewed_at:string|null};
+export type LegacyProgress={lesson_id:string,legacy_done:boolean,legacy_score:number};
+export type AttemptResult={score:number,passed:boolean,feedback:{id:string,correct:boolean,yourAnswer:string,answer:string}[],duplicate?:boolean};
