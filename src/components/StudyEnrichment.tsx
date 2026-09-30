@@ -62,8 +62,8 @@ export function SpeakingRecorder({keyLabel}:{keyLabel:string}){
  </div>;
 }
 
-export function ExpandedPractice({unit,ownerId}:{unit:Enrichment,ownerId:string}){
- const storageKey=`srpskilab-v4-draft:${ownerId}:${unit.id}`;
+export function ExpandedPractice({unit,ownerId,learningEpoch}:{unit:Enrichment,ownerId:string,learningEpoch:string}){
+ const storageKey=`srpskilab-v4-draft:${ownerId}:${learningEpoch}:${unit.id}`;
  const [inputs,setInputs]=useState<Record<string,string>>({});const [revealed,setRevealed]=useState<Record<string,boolean>>({});
  const [writing,setWriting]=useState('');const [loaded,setLoaded]=useState(false);const [storageStatus,setStorageStatus]=useState<'saved'|'unavailable'>('saved');
  useEffect(()=>{

@@ -20,3 +20,14 @@ for(const record of ext){
  }
 }
 console.log('PASS: '+rendered+' React SSR renders of supplementary reading/theory/writing/speaking for all 245 targeted lessons.');
+const {CapstoneWorkshop,getCapstone}=require('../src/components/CapstoneWorkshop.tsx');
+const capstones=require('../src/content/capstones-b1-b2-v5.json');
+for (const entry of capstones){
+ const unit=getCapstone(entry.id);assert(unit);
+ const html=renderToStaticMarkup(React.createElement(VoiceProvider,null,React.createElement(CapstoneWorkshop,{unit,script:'latin',ownerId:'integration-test',learningEpoch:'test-epoch'})));
+ assert(html.includes(entry.title),entry.id+': missing capstone title');
+ assert(html.includes('Прослушать'),entry.id+': missing listening audio control');
+ assert(html.includes('СБРОСИТЬ')===false,entry.id+': unrelated reset UI');
+ assert(html.length>1000);
+}
+console.log('PASS: '+capstones.length+' advanced capstones rendered with controls (static SSR, not a full browser or Supabase test).');

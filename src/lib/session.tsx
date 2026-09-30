@@ -2,7 +2,7 @@ import{createContext,useContext,useEffect,useState,useCallback,useRef,type React
 import type{User}from '@supabase/supabase-js';
 import{getSupabase,supabase,errorMessage}from './supabase';
 import type{Profile,LessonProgress,ExamAttempt,WordProgress,LegacyProgress,AttemptResult}from './types';
-import{queueAttempt,takeQueue,removeAttempt}from './offline';
+import{queueAttempt,takeQueue,removeAttempt,clearQueueForUser,clearLocalLearningDrafts}from './offline';
 
 type AuthContextType={user:User|null,loading:boolean,signOut:()=>Promise<void>};
 const AuthContext=createContext<AuthContextType>({user:null,loading:true,signOut:async()=>{}});
@@ -26,7 +26,8 @@ type ProgressContextType={
  saveStep:(lessonId:string,step:string)=>Promise<void>,markWords:(ids:string[])=>Promise<void>,
  submitLesson:(lessonId:string,answers:Record<string,string>,key:string)=>Promise<UploadResult>,
  submitExam:(level:string,answers:Record<string,string>,key:string)=>Promise<AttemptResult>,reviewWord:(id:string,grade:string,key:string)=>Promise<void>,
- importLegacy:(hash:string,archive:Record<string,unknown>)=>Promise<{count:number,words:number,exams:number,duplicate:boolean}>};
+ importLegacy:(hash:string,archive:Record<string,unknown>)=>Promise<{count:number,words:number,exams:number,duplicate:boolean}>,
+ resetLearning:()=>Promise<void>};
 const ProgressContext=createContext<ProgressContextType|null>(null);
 export function useProgress(){const c=useContext(ProgressContext);if(!c)throw new Error('Missing ProgressProvider');return c}
 const emptyState={profile:null,lessons:{},exams:[],words:{},legacy:[]};
@@ -37,9 +38,12 @@ export function ProgressProvider({children}:{children:ReactNode}){
  const[lessons,setLessons]=useState<Record<string,LessonProgress>>({});
  const[exams,setExams]=useState<ExamAttempt[]>([]);const[words,setWords]=useState<Record<string,WordProgress>>({});
  const[legacy,setLegacy]=useState<LegacyProgress[]>([]);const[loading,setLoading]=useState(Boolean(uid));
- const[dataFor,setDataFor]=useState<string|null>(null);
+ const[dataFor,setDataFor]=useState<string|null>(null);const latestRefresh=useRef(0);
  const[syncStatus,setSyncStatus]=useState<ProgressContextType['syncStatus']>('saved');const[syncError,setSyncError]=useState<string|null>(null);
+ const currentEpoch=profile?.learning_epoch;
+ const requireEpoch=()=>{if(!currentEpoch)throw Error('Обнови страницу: серверная миграция сброса прогресса ещё не настроена или профиль не загрузился.');return currentEpoch};
  const refresh=useCallback(async()=>{
+   const sequence=++latestRefresh.current;
    if(!uid){setDataFor(null);setProfile(null);setLessons({});setExams([]);setWords({});setLegacy([]);setLoading(false);return;}
    setLoading(true);
    try{
@@ -52,7 +56,7 @@ export function ProgressProvider({children}:{children:ReactNode}){
        api.from('legacy_imported_progress').select('lesson_id,legacy_done,legacy_score').eq('user_id',uid)
      ]);
      const failure=result.find(v=>v.error)?.error;if(failure)throw failure;
-     if(activeId.current!==uid)return;
+     if(activeId.current!==uid||latestRefresh.current!==sequence)return;
      setProfile(result[0].data as Profile|null);
      setLessons(Object.fromEntries(((result[1].data||[]) as LessonProgress[]).map(x=>[x.lesson_id,x])));
      setExams((result[2].data||[]) as ExamAttempt[]);
@@ -60,65 +64,86 @@ export function ProgressProvider({children}:{children:ReactNode}){
      setLegacy((result[4].data||[]) as LegacyProgress[]);
      setDataFor(uid);
      setSyncStatus(prev=>prev==='queued_offline'?prev:'saved');setSyncError(null);
-   }catch(e){if(activeId.current===uid){setSyncStatus('failed');setSyncError(errorMessage(e))}}
-   finally{if(activeId.current===uid)setLoading(false)}
+   }catch(e){if(activeId.current===uid&&latestRefresh.current===sequence){setSyncStatus('failed');setSyncError(errorMessage(e))}}
+   finally{if(activeId.current===uid&&latestRefresh.current===sequence)setLoading(false)}
  },[uid]);
  useEffect(()=>{
   setDataFor(null);setProfile(emptyState.profile);setLessons({});setExams([]);setWords({});setLegacy([]);setSyncError(null);setSyncStatus('saved');setLoading(Boolean(uid));
   void refresh();
  },[refresh,uid]);
  const flush=useCallback(async()=>{
-   if(!uid||!navigator.onLine)return;
+   if(!uid||!currentEpoch||!navigator.onLine)return;
    const pending=await takeQueue(uid);
    if(!pending.length)return;
    for(const a of pending){try{
-     const{data,error}=await getSupabase().rpc(a.schemaVersion===2?'submit_lesson_attempt_v3':'submit_lesson_attempt',{p_lesson_id:a.lessonId,p_attempt_key:a.key,p_answers:a.answers});
+     // A reset rotates the server epoch. Old offline attempts must NEVER restore progress.
+     if(a.learningEpoch!==currentEpoch){await removeAttempt(a.key);continue;}
+     const{data,error}=await getSupabase().rpc('submit_lesson_attempt_v4',{p_lesson_id:a.lessonId,p_attempt_key:a.key,p_answers:a.answers,p_learning_epoch:currentEpoch});
      if(error)throw error;
      if(data)await removeAttempt(a.key);
    }catch(e){setSyncError(`Несинхронизированная попытка: ${errorMessage(e)}`);setSyncStatus('failed');return}}
    setSyncStatus('saved');await refresh();
- },[uid,refresh]);
- useEffect(()=>{if(!uid)return;void flush();window.addEventListener('online',flush);return()=>window.removeEventListener('online',flush)},[uid,flush]);
+ },[uid,currentEpoch,refresh]);
+ useEffect(()=>{if(!uid||!currentEpoch)return;void flush();window.addEventListener('online',flush);return()=>window.removeEventListener('online',flush)},[uid,currentEpoch,flush]);
  const saveProfile=async(name:string,script:string,theme:string,goal:number)=>{
    setSyncStatus('saving');const{error}=await getSupabase().rpc('save_profile',{p_display_name:name,p_script:script,p_theme:theme,p_goal:goal});
    if(error){setSyncStatus('failed');throw error;}await refresh();setSyncStatus('saved');
  };
  const saveStep=async(lessonId:string,step:string)=>{
    if(!uid)return;
-   const {error}=await getSupabase().rpc('save_lesson_step',{p_lesson_id:lessonId,p_step:step});
+   const {error}=await getSupabase().rpc('save_lesson_step_v4',{p_lesson_id:lessonId,p_step:step,p_learning_epoch:requireEpoch()});
    if(error){setSyncStatus('failed');setSyncError(errorMessage(error));throw error;}
  };
  const markWords=async(ids:string[])=>{
    if(!uid||ids.length===0)return;
-   const{error}=await getSupabase().rpc('mark_words_seen',{p_word_ids:ids});
+   const{error}=await getSupabase().rpc('mark_words_seen_v4',{p_word_ids:ids,p_learning_epoch:requireEpoch()});
    if(error)throw error;await refresh();
  };
  const submitLesson=async(lessonId:string,answers:Record<string,string>,key:string):Promise<UploadResult>=>{
    if(!uid)throw Error('Требуется вход');setSyncStatus('saving');
-   if(!navigator.onLine){await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true}}
+   if(!navigator.onLine){await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,learningEpoch:requireEpoch(),createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true}}
    try{
-     const{data,error}=await getSupabase().rpc('submit_lesson_attempt_v3',{p_lesson_id:lessonId,p_attempt_key:key,p_answers:answers});
+     const{data,error}=await getSupabase().rpc('submit_lesson_attempt_v4',{p_lesson_id:lessonId,p_attempt_key:key,p_answers:answers,p_learning_epoch:requireEpoch()});
      if(error)throw error;
      await refresh();setSyncStatus('saved');return data as AttemptResult;
    }catch(e){
      if(!navigator.onLine||/failed to fetch|network|load failed/i.test(errorMessage(e))){
-       await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true};
+       await queueAttempt({userId:uid,lessonId,answers,key,schemaVersion:2,learningEpoch:requireEpoch(),createdAt:new Date().toISOString()});setSyncStatus('queued_offline');return{queued:true};
      }
      setSyncStatus('failed');setSyncError(errorMessage(e));throw e;
    }
  };
  const submitExam=async(level:string,answers:Record<string,string>,key:string)=>{
-   setSyncStatus('saving');const{data,error}=await getSupabase().rpc('submit_exam_attempt',{p_level:level,p_attempt_key:key,p_answers:answers});
+   setSyncStatus('saving');const{data,error}=await getSupabase().rpc('submit_exam_attempt_v4',{p_level:level,p_attempt_key:key,p_answers:answers,p_learning_epoch:requireEpoch()});
    if(error){setSyncStatus('failed');throw error;}await refresh();setSyncStatus('saved');return data as AttemptResult;
  };
  const reviewWord=async(id:string,grade:string,key:string)=>{
-   setSyncStatus('saving');const{error}=await getSupabase().rpc('review_word',{p_word_id:id,p_grade:grade,p_event_key:key});
+   setSyncStatus('saving');const{error}=await getSupabase().rpc('review_word_v4',{p_word_id:id,p_grade:grade,p_event_key:key,p_learning_epoch:requireEpoch()});
    if(error){setSyncStatus('failed');throw error;}await refresh();setSyncStatus('saved');
  };
  const importLegacy=async(hash:string,archive:Record<string,unknown>):Promise<{count:number,words:number,exams:number,duplicate:boolean}>=>{
-   setSyncStatus('saving');const{data,error}=await getSupabase().rpc('import_legacy_archive',{p_source_hash:hash,p_lessons:archive});
+   setSyncStatus('saving');const{data,error}=await getSupabase().rpc('import_legacy_archive_v4',{p_source_hash:hash,p_lessons:archive,p_learning_epoch:requireEpoch()});
    if(error){setSyncStatus('failed');throw error;}await refresh();setSyncStatus('saved');return data as{count:number,words:number,exams:number,duplicate:boolean};
  };
+ /** Only the authenticated user can reset their own learning state.
+  * SQL is transactional and rotates learning_epoch to reject stale offline writes. */
+ const resetLearning=async()=>{
+   if(!uid)throw Error('Сначала войди в аккаунт.');
+   setSyncStatus('saving');setSyncError(null);
+   const epoch=requireEpoch();
+   const {data,error}=await getSupabase().rpc('reset_own_learning',{p_confirmation:'СБРОСИТЬ',p_expected_epoch:epoch});
+   if(error){setSyncStatus('failed');setSyncError(errorMessage(error));throw error;}
+   if(!data?.ok)throw Error('Сервер не подтвердил сброс.');
+   // Clear local state ONLY AFTER a successful server transaction.
+   try{await clearQueueForUser(uid)}catch(e){
+     // Server reset already succeeded; don't falsely show a failed reset.
+     setSyncError('Серверный сброс выполнен. Очередь браузера не очищена: '+errorMessage(e));
+   }
+   clearLocalLearningDrafts(uid);
+   setLessons({});setExams([]);setWords({});setLegacy([]);
+   await refresh();
+   setSyncStatus('saved');
+ };
  const belongs=uid!==null&&dataFor===uid;
- return <ProgressContext.Provider value={{profile:belongs?profile:null,lessons:belongs?lessons:{},exams:belongs?exams:[],words:belongs?words:{},legacy:belongs?legacy:[],loading:loading||Boolean(uid&&!belongs&&!syncError),syncStatus,syncError,refresh,saveProfile,saveStep,markWords,submitLesson,submitExam,reviewWord,importLegacy}}>{children}</ProgressContext.Provider>;
+ return <ProgressContext.Provider value={{profile:belongs?profile:null,lessons:belongs?lessons:{},exams:belongs?exams:[],words:belongs?words:{},legacy:belongs?legacy:[],loading:loading||Boolean(uid&&!belongs&&!syncError),syncStatus,syncError,refresh,saveProfile,saveStep,markWords,submitLesson,submitExam,reviewWord,importLegacy,resetLearning}}>{children}</ProgressContext.Provider>;
 }
